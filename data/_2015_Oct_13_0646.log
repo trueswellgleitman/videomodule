@@ -1,0 +1,255 @@
+1.9371 	EXP 	Imported test.csv as conditions, 3 conditions, 7 params
+1.9373 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+1.9634 	EXP 	New trial (rep=0, index=0): {'receivertwo': u'hunter', 'verb': u'headbutt', 'verbtwo': u'rock', 'receiver': u'chef', 'correct': 1, 'actor': u'bandit', 'actortwo': u'bandit'}
+2.5032 	EXP 	ImageStim: autoLog = None
+2.5032 	EXP 	ImageStim: units = None
+2.5032 	EXP 	ImageStim: useShaders = None
+2.5032 	EXP 	ImageStim: size = None
+2.5032 	EXP 	ImageStim: pos = None
+2.5032 	EXP 	ImageStim: ori = None
+2.5032 	EXP 	ImageStim: depth = None
+2.5032 	EXP 	ImageStim: contrast = None
+2.5032 	EXP 	ImageStim: opacity = None
+2.5032 	EXP 	MovieStim: autoLog = None
+2.5032 	EXP 	MovieStim: units = None
+2.5032 	EXP 	Set movie movie=videos/bandit_chef_headbutt.avi
+2.5032 	EXP 	MovieStim: pos = None
+2.5032 	EXP 	MovieStim: depth = None
+2.5032 	EXP 	MovieStim: colorSpace = None
+2.5032 	EXP 	MovieStim: opacity = None
+2.5032 	EXP 	MovieStim: size = None
+2.5032 	EXP 	MovieStim: ori = None
+2.5032 	EXP 	MovieStim: autoLog = None
+2.5032 	EXP 	MovieStim: units = None
+2.5032 	EXP 	Set movie movie=videos/bandit_hunter_rock.avi
+2.5032 	EXP 	MovieStim: pos = None
+2.5032 	EXP 	MovieStim: depth = None
+2.5032 	EXP 	MovieStim: colorSpace = None
+2.5032 	EXP 	MovieStim: opacity = None
+2.5032 	EXP 	MovieStim: size = None
+2.5032 	EXP 	MovieStim: ori = None
+2.5032 	EXP 	MovieStim: autoDraw = None
+2.5032 	EXP 	MovieStim: autoDraw = None
+3.6822 	EXP 	Set movie finished
+3.6990 	EXP 	Set movie paused
+3.9820 	EXP 	Set movie finished
+3.9987 	EXP 	Set movie paused
+5.4487 	DATA 	Mouse: Left button down, pos=(990,1083)
+5.4500 	EXP 	New trial (rep=0, index=1): {'receivertwo': u'chef', 'verb': u'knockover', 'verbtwo': u'knockover', 'receiver': u'hunter', 'correct': 2, 'actor': u'bandit', 'actortwo': u'bandit'}
+5.8025 	DATA 	Mouse: Left button up, pos=(990,1083)
+5.9713 	EXP 	MovieStim: autoDraw = None
+5.9713 	EXP 	MovieStim: autoDraw = None
+5.9713 	EXP 	MovieStim: autoLog = None
+5.9713 	EXP 	MovieStim: units = None
+5.9713 	EXP 	Set movie movie=videos/bandit_hunter_knockover.avi
+5.9713 	EXP 	MovieStim: pos = None
+5.9713 	EXP 	MovieStim: depth = None
+5.9713 	EXP 	MovieStim: colorSpace = None
+5.9713 	EXP 	MovieStim: opacity = None
+5.9713 	EXP 	MovieStim: size = None
+5.9713 	EXP 	MovieStim: ori = None
+5.9713 	EXP 	MovieStim: autoLog = None
+5.9713 	EXP 	MovieStim: units = None
+5.9713 	EXP 	Set movie movie=videos/bandit_chef_knockover.avi
+5.9713 	EXP 	MovieStim: pos = None
+5.9713 	EXP 	MovieStim: depth = None
+5.9713 	EXP 	MovieStim: colorSpace = None
+5.9713 	EXP 	MovieStim: opacity = None
+5.9713 	EXP 	MovieStim: size = None
+5.9713 	EXP 	MovieStim: ori = None
+5.9713 	EXP 	MovieStim: autoDraw = None
+5.9713 	EXP 	MovieStim: autoDraw = None
+7.4819 	EXP 	MovieStim: autoDraw = None
+7.4984 	EXP 	Set movie paused
+9.1483 	DATA 	Mouse: Left button down, pos=(1598,970)
+9.1492 	EXP 	New trial (rep=0, index=2): {'receivertwo': u'ref', 'verb': u'rock', 'verbtwo': u'headbutt', 'receiver': u'ref', 'correct': 2, 'actor': u'bandit', 'actortwo': u'bandit'}
+9.5069 	DATA 	Mouse: Left button up, pos=(1598,970)
+9.6705 	EXP 	MovieStim: autoDraw = None
+9.6705 	EXP 	MovieStim: autoDraw = None
+9.6705 	EXP 	MovieStim: autoLog = None
+9.6705 	EXP 	MovieStim: units = None
+9.6705 	EXP 	Set movie movie=videos/bandit_ref_rock.avi
+9.6705 	EXP 	MovieStim: pos = None
+9.6705 	EXP 	MovieStim: depth = None
+9.6705 	EXP 	MovieStim: colorSpace = None
+9.6705 	EXP 	MovieStim: opacity = None
+9.6705 	EXP 	MovieStim: size = None
+9.6705 	EXP 	MovieStim: ori = None
+9.6705 	EXP 	MovieStim: autoLog = None
+9.6705 	EXP 	MovieStim: units = None
+9.6705 	EXP 	Set movie movie=videos/bandit_ref_headbutt.avi
+9.6705 	EXP 	MovieStim: pos = None
+9.6705 	EXP 	MovieStim: depth = None
+9.6705 	EXP 	MovieStim: colorSpace = None
+9.6705 	EXP 	MovieStim: opacity = None
+9.6705 	EXP 	MovieStim: size = None
+9.6705 	EXP 	MovieStim: ori = None
+9.6705 	EXP 	MovieStim: autoDraw = None
+9.6705 	EXP 	MovieStim: autoDraw = None
+10.8481 	EXP 	Set movie finished
+10.8651 	EXP 	Set movie paused
+11.1815 	EXP 	MovieStim: autoDraw = None
+11.1980 	EXP 	Set movie paused
+12.6648 	DATA 	Mouse: Left button down, pos=(1599,969)
+12.6661 	EXP 	Imported images.csv as conditions, 5 conditions, 4 params
+12.6662 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+12.6671 	EXP 	New trial (rep=0, index=0): {'color': u'Red', 'verb': u'On', 'names': u'mountie', 'object': u'Stool'}
+12.6833 	EXP 	MovieStim: autoDraw = None
+12.6833 	EXP 	MovieStim: autoDraw = None
+12.6833 	EXP 	Set image_2 image=images/mountieOnRedStool.png
+12.6833 	EXP 	ImageStim: autoDraw = None
+12.7983 	DATA 	Mouse: Left button up, pos=(1599,969)
+13.5313 	DATA 	Mouse: Left button down, pos=(1411,885)
+13.5325 	EXP 	New trial (rep=0, index=1): {'color': u'Red', 'verb': u'With', 'names': u'hunter', 'object': u'Stool'}
+13.5478 	EXP 	ImageStim: autoDraw = None
+13.5478 	EXP 	Set image_2 image=images/hunterWithRedStool.png
+13.5478 	EXP 	ImageStim: autoDraw = None
+13.6312 	DATA 	Mouse: Left button up, pos=(1411,885)
+13.7644 	DATA 	Mouse: Left button down, pos=(1411,885)
+13.7652 	EXP 	New trial (rep=0, index=2): {'color': u'Red', 'verb': u'On', 'names': u'hunter', 'object': u'Stool'}
+13.7810 	EXP 	ImageStim: autoDraw = None
+13.7810 	EXP 	Set image_2 image=images/hunterOnRedStool.png
+13.7810 	EXP 	ImageStim: autoDraw = None
+13.8483 	DATA 	Mouse: Left button up, pos=(1411,885)
+13.9813 	DATA 	Mouse: Left button down, pos=(1411,885)
+13.9823 	EXP 	New trial (rep=0, index=3): {'color': u'Blue', 'verb': u'Nextto', 'names': u'hunter', 'object': u'Stool'}
+13.9992 	EXP 	ImageStim: autoDraw = None
+13.9992 	EXP 	Set image_2 image=images/hunterNexttoBlueStool.png
+13.9992 	EXP 	ImageStim: autoDraw = None
+14.0649 	DATA 	Mouse: Left button up, pos=(1411,885)
+14.1813 	DATA 	Mouse: Left button down, pos=(1411,885)
+14.1820 	EXP 	New trial (rep=0, index=4): {'color': u'Red', 'verb': u'On', 'names': u'mountie', 'object': u'Skateboard'}
+14.1977 	EXP 	ImageStim: autoDraw = None
+14.1977 	EXP 	Set image_2 image=images/mountieOnRedSkateboard.png
+14.1977 	EXP 	ImageStim: autoDraw = None
+14.2981 	DATA 	Mouse: Left button up, pos=(1411,885)
+14.4144 	DATA 	Mouse: Left button down, pos=(1411,885)
+2.1178 	EXP 	Imported test.csv as conditions, 3 conditions, 7 params
+2.1186 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+2.1505 	EXP 	New trial (rep=0, index=0): {'receivertwo': u'hunter', 'verb': u'headbutt', 'verbtwo': u'rock', 'receiver': u'chef', 'correct': 1, 'actor': u'bandit', 'actortwo': u'bandit'}
+2.6892 	EXP 	ImageStim: autoLog = None
+2.6892 	EXP 	ImageStim: units = None
+2.6892 	EXP 	ImageStim: useShaders = None
+2.6892 	EXP 	ImageStim: size = None
+2.6892 	EXP 	ImageStim: pos = None
+2.6892 	EXP 	ImageStim: ori = None
+2.6892 	EXP 	ImageStim: depth = None
+2.6892 	EXP 	ImageStim: contrast = None
+2.6892 	EXP 	ImageStim: opacity = None
+2.6892 	EXP 	MovieStim: autoLog = None
+2.6892 	EXP 	MovieStim: units = None
+2.6892 	EXP 	Set movie movie=videos/bandit_chef_headbutt.avi
+2.6892 	EXP 	MovieStim: pos = None
+2.6892 	EXP 	MovieStim: depth = None
+2.6892 	EXP 	MovieStim: colorSpace = None
+2.6892 	EXP 	MovieStim: opacity = None
+2.6892 	EXP 	MovieStim: size = None
+2.6892 	EXP 	MovieStim: ori = None
+2.6892 	EXP 	MovieStim: autoLog = None
+2.6892 	EXP 	MovieStim: units = None
+2.6892 	EXP 	Set movie movie=videos/bandit_hunter_rock.avi
+2.6892 	EXP 	MovieStim: pos = None
+2.6892 	EXP 	MovieStim: depth = None
+2.6892 	EXP 	MovieStim: colorSpace = None
+2.6892 	EXP 	MovieStim: opacity = None
+2.6892 	EXP 	MovieStim: size = None
+2.6892 	EXP 	MovieStim: ori = None
+2.6892 	EXP 	MovieStim: autoDraw = None
+2.6892 	EXP 	MovieStim: autoDraw = None
+3.8718 	EXP 	Set movie finished
+3.8884 	EXP 	Set movie paused
+4.1719 	EXP 	Set movie finished
+4.1883 	EXP 	Set movie paused
+4.9383 	DATA 	Mouse: Left button down, pos=(863,783)
+4.9395 	EXP 	New trial (rep=0, index=1): {'receivertwo': u'chef', 'verb': u'knockover', 'verbtwo': u'knockover', 'receiver': u'hunter', 'correct': 2, 'actor': u'bandit', 'actortwo': u'bandit'}
+5.2787 	DATA 	Mouse: Left button up, pos=(863,783)
+5.4609 	EXP 	MovieStim: autoDraw = None
+5.4609 	EXP 	MovieStim: autoDraw = None
+5.4609 	EXP 	MovieStim: autoLog = None
+5.4609 	EXP 	MovieStim: units = None
+5.4609 	EXP 	Set movie movie=videos/bandit_hunter_knockover.avi
+5.4609 	EXP 	MovieStim: pos = None
+5.4609 	EXP 	MovieStim: depth = None
+5.4609 	EXP 	MovieStim: colorSpace = None
+5.4609 	EXP 	MovieStim: opacity = None
+5.4609 	EXP 	MovieStim: size = None
+5.4609 	EXP 	MovieStim: ori = None
+5.4609 	EXP 	MovieStim: autoLog = None
+5.4609 	EXP 	MovieStim: units = None
+5.4609 	EXP 	Set movie movie=videos/bandit_chef_knockover.avi
+5.4609 	EXP 	MovieStim: pos = None
+5.4609 	EXP 	MovieStim: depth = None
+5.4609 	EXP 	MovieStim: colorSpace = None
+5.4609 	EXP 	MovieStim: opacity = None
+5.4609 	EXP 	MovieStim: size = None
+5.4609 	EXP 	MovieStim: ori = None
+5.4609 	EXP 	MovieStim: autoDraw = None
+5.4609 	EXP 	MovieStim: autoDraw = None
+6.9713 	EXP 	MovieStim: autoDraw = None
+6.9880 	EXP 	Set movie paused
+9.4713 	EXP 	Set movie finished
+9.4880 	EXP 	Set movie paused
+10.2382 	DATA 	Mouse: Left button down, pos=(1499,793)
+10.2408 	EXP 	New trial (rep=0, index=2): {'receivertwo': u'ref', 'verb': u'rock', 'verbtwo': u'headbutt', 'receiver': u'ref', 'correct': 2, 'actor': u'bandit', 'actortwo': u'bandit'}
+10.6150 	DATA 	Mouse: Left button up, pos=(1499,793)
+10.7738 	EXP 	MovieStim: autoDraw = None
+10.7738 	EXP 	MovieStim: autoDraw = None
+10.7738 	EXP 	MovieStim: autoLog = None
+10.7738 	EXP 	MovieStim: units = None
+10.7738 	EXP 	Set movie movie=videos/bandit_ref_rock.avi
+10.7738 	EXP 	MovieStim: pos = None
+10.7738 	EXP 	MovieStim: depth = None
+10.7738 	EXP 	MovieStim: colorSpace = None
+10.7738 	EXP 	MovieStim: opacity = None
+10.7738 	EXP 	MovieStim: size = None
+10.7738 	EXP 	MovieStim: ori = None
+10.7738 	EXP 	MovieStim: autoLog = None
+10.7738 	EXP 	MovieStim: units = None
+10.7738 	EXP 	Set movie movie=videos/bandit_ref_headbutt.avi
+10.7738 	EXP 	MovieStim: pos = None
+10.7738 	EXP 	MovieStim: depth = None
+10.7738 	EXP 	MovieStim: colorSpace = None
+10.7738 	EXP 	MovieStim: opacity = None
+10.7738 	EXP 	MovieStim: size = None
+10.7738 	EXP 	MovieStim: ori = None
+10.7738 	EXP 	MovieStim: autoDraw = None
+10.7738 	EXP 	MovieStim: autoDraw = None
+11.9544 	EXP 	Set movie finished
+11.9711 	EXP 	Set movie paused
+12.2709 	EXP 	MovieStim: autoDraw = None
+12.2878 	EXP 	Set movie paused
+13.3875 	DATA 	Mouse: Left button down, pos=(1560,844)
+13.3888 	EXP 	Imported images.csv as conditions, 5 conditions, 4 params
+13.3891 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+13.3900 	EXP 	New trial (rep=0, index=0): {'color': u'Red', 'verb': u'On', 'names': u'mountie', 'object': u'Stool'}
+13.4052 	EXP 	MovieStim: autoDraw = None
+13.4052 	EXP 	MovieStim: autoDraw = None
+13.4052 	EXP 	Set image_2 image=images/mountieOnRedStool.png
+13.4052 	EXP 	ImageStim: autoDraw = None
+13.5543 	DATA 	Mouse: Left button up, pos=(1560,841)
+13.9379 	DATA 	Mouse: Left button down, pos=(1552,841)
+13.9399 	EXP 	New trial (rep=0, index=1): {'color': u'Red', 'verb': u'With', 'names': u'hunter', 'object': u'Stool'}
+13.9571 	EXP 	ImageStim: autoDraw = None
+13.9571 	EXP 	Set image_2 image=images/hunterWithRedStool.png
+13.9571 	EXP 	ImageStim: autoDraw = None
+14.0549 	DATA 	Mouse: Left button up, pos=(1551,841)
+14.1710 	DATA 	Mouse: Left button down, pos=(1551,841)
+14.1717 	EXP 	New trial (rep=0, index=2): {'color': u'Red', 'verb': u'On', 'names': u'hunter', 'object': u'Stool'}
+14.1874 	EXP 	ImageStim: autoDraw = None
+14.1874 	EXP 	Set image_2 image=images/hunterOnRedStool.png
+14.1874 	EXP 	ImageStim: autoDraw = None
+14.2708 	DATA 	Mouse: Left button up, pos=(1551,841)
+14.3877 	DATA 	Mouse: Left button down, pos=(1551,841)
+14.3887 	EXP 	New trial (rep=0, index=3): {'color': u'Blue', 'verb': u'Nextto', 'names': u'hunter', 'object': u'Stool'}
+14.4039 	EXP 	ImageStim: autoDraw = None
+14.4039 	EXP 	Set image_2 image=images/hunterNexttoBlueStool.png
+14.4039 	EXP 	ImageStim: autoDraw = None
+14.4875 	DATA 	Mouse: Left button up, pos=(1551,841)
+14.6375 	DATA 	Mouse: Left button down, pos=(1551,841)
+14.6383 	EXP 	New trial (rep=0, index=4): {'color': u'Red', 'verb': u'On', 'names': u'mountie', 'object': u'Skateboard'}
+14.6543 	EXP 	ImageStim: autoDraw = None
+14.6543 	EXP 	Set image_2 image=images/mountieOnRedSkateboard.png
+14.6543 	EXP 	ImageStim: autoDraw = None
+14.7545 	DATA 	Mouse: Left button up, pos=(1551,841)
+15.0372 	DATA 	Mouse: Left button down, pos=(1551,841)
+15.1017 	WARNING 	Data file, data/_2015_Oct_13_0646.csv, will be overwritten

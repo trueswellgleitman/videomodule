@@ -1,0 +1,65 @@
+3.3791 	EXP 	Imported test.csv as conditions, 3 conditions, 11 params
+3.3795 	EXP 	Created sequence: random, trialTypes=3, nReps=5, seed=None
+3.3801 	EXP 	New trial (rep=0, index=0): {'receivertwo': u'ref', 'soundverb': u'doakla', 'verbtwo': u'headbutt', 'welcometext': u'hello welcome to the lab. You will be watching videos that will teach us something"', 'actor': u'bandit', 'verb': u'rock', 'receiver': u'ref', 'soundreceiver': u'barsu', 'correct': 2, 'soundactor': u'kyse', 'actortwo': u'bandit'}
+3.4018 	EXP 	TextStim: autoLog = None
+3.4018 	EXP 	TextStim: units = None
+3.4018 	EXP 	TextStim: useShaders = None
+3.4018 	EXP 	TextStim: depth = None
+3.4018 	EXP 	TextStim: ori = None
+3.4018 	EXP 	TextStim: pos = None
+3.4018 	EXP 	TextStim: colorSpace = None
+3.4018 	EXP 	TextStim: opacity = None
+3.4018 	EXP 	TextStim: contrast = None
+3.4018 	EXP 	ImageStim: autoLog = None
+3.4018 	EXP 	ImageStim: units = None
+3.4018 	EXP 	ImageStim: useShaders = None
+3.4018 	EXP 	ImageStim: size = None
+3.4018 	EXP 	ImageStim: pos = None
+3.4018 	EXP 	ImageStim: ori = None
+3.4018 	EXP 	ImageStim: depth = None
+3.4018 	EXP 	ImageStim: contrast = None
+3.4018 	EXP 	ImageStim: opacity = None
+3.4018 	EXP 	TextStim: autoLog = None
+3.4018 	EXP 	TextStim: units = None
+3.4018 	EXP 	TextStim: useShaders = None
+3.4018 	EXP 	TextStim: depth = None
+3.4018 	EXP 	TextStim: ori = None
+3.4018 	EXP 	TextStim: pos = None
+3.4018 	EXP 	TextStim: colorSpace = None
+3.4018 	EXP 	TextStim: opacity = None
+3.4018 	EXP 	TextStim: contrast = None
+3.4018 	EXP 	TextStim: autoDraw = None
+3.4018 	EXP 	ImageStim: autoDraw = None
+4.4170 	EXP 	TextStim: autoDraw = None
+4.4170 	EXP 	ImageStim: autoDraw = None
+4.4170 	EXP 	Set text_2 text=hello welcome to the lab. You will be watching videos that will teach us something"
+4.4170 	EXP 	TextStim: autoDraw = None
+5.3868 	EXP 	New trial (rep=0, index=1): {'receivertwo': u'chef', 'soundverb': u'moship', 'verbtwo': u'knockover', 'welcometext': u'hello welcome to the lab. You will be watching videos that will teach us something"', 'actor': u'bandit', 'verb': u'knockover', 'receiver': u'hunter', 'soundreceiver': u'doakla', 'correct': 2, 'soundactor': u'barsu', 'actortwo': u'bandit'}
+5.4033 	EXP 	TextStim: autoDraw = None
+5.4033 	EXP 	TextStim: autoDraw = None
+5.4033 	EXP 	ImageStim: autoDraw = None
+6.4206 	EXP 	TextStim: autoDraw = None
+6.4206 	EXP 	ImageStim: autoDraw = None
+6.4206 	EXP 	Set text_2 text=hello welcome to the lab. You will be watching videos that will teach us something"
+6.4206 	EXP 	TextStim: autoDraw = None
+7.3885 	EXP 	New trial (rep=0, index=2): {'receivertwo': u'hunter', 'soundverb': u'forp', 'verbtwo': u'rock', 'welcometext': u'hello welcome to the lab. You will be watching videos that will teach us something"', 'actor': u'bandit', 'verb': u'headbutt', 'receiver': u'chef', 'soundreceiver': u'doakla', 'correct': 1, 'soundactor': u'barsu', 'actortwo': u'bandit'}
+7.4050 	EXP 	TextStim: autoDraw = None
+7.4050 	EXP 	TextStim: autoDraw = None
+7.4050 	EXP 	ImageStim: autoDraw = None
+8.4221 	EXP 	TextStim: autoDraw = None
+8.4221 	EXP 	ImageStim: autoDraw = None
+8.4221 	EXP 	Set text_2 text=hello welcome to the lab. You will be watching videos that will teach us something"
+8.4221 	EXP 	TextStim: autoDraw = None
+9.3900 	EXP 	New trial (rep=1, index=0): {'receivertwo': u'hunter', 'soundverb': u'forp', 'verbtwo': u'rock', 'welcometext': u'hello welcome to the lab. You will be watching videos that will teach us something"', 'actor': u'bandit', 'verb': u'headbutt', 'receiver': u'chef', 'soundreceiver': u'doakla', 'correct': 1, 'soundactor': u'barsu', 'actortwo': u'bandit'}
+9.4066 	EXP 	TextStim: autoDraw = None
+9.4066 	EXP 	TextStim: autoDraw = None
+9.4066 	EXP 	ImageStim: autoDraw = None
+10.4237 	EXP 	TextStim: autoDraw = None
+10.4237 	EXP 	ImageStim: autoDraw = None
+10.4237 	EXP 	Set text_2 text=hello welcome to the lab. You will be watching videos that will teach us something"
+10.4237 	EXP 	TextStim: autoDraw = None
+11.3917 	EXP 	New trial (rep=1, index=1): {'receivertwo': u'ref', 'soundverb': u'doakla', 'verbtwo': u'headbutt', 'welcometext': u'hello welcome to the lab. You will be watching videos that will teach us something"', 'actor': u'bandit', 'verb': u'rock', 'receiver': u'ref', 'soundreceiver': u'barsu', 'correct': 2, 'soundactor': u'kyse', 'actortwo': u'bandit'}
+11.4082 	EXP 	TextStim: autoDraw = None
+11.4082 	EXP 	TextStim: autoDraw = None
+11.4082 	EXP 	ImageStim: autoDraw = None
+11.9755 	DATA 	Keypress: escape

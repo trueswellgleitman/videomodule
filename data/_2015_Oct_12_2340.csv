@@ -1,0 +1,4 @@
+verb,actor,reciever,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,key_resp_2.keys,date,frameRate,expName,session,participant,
+headbutt,bandit,chef,0,0,0,0,None,2015_Oct_12_2340,59.9876143279,try,001,,
+knockover,bandit,hunter,0,1,1,1,None,2015_Oct_12_2340,59.9876143279,try,001,,
+rock,bandit,ref,0,2,2,2,None,2015_Oct_12_2340,59.9876143279,try,001,,

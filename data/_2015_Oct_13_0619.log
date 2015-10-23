@@ -1,0 +1,36 @@
+2.2894 	EXP 	Imported test.csv as conditions, 3 conditions, 3 params
+2.2896 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+2.3163 	EXP 	New trial (rep=0, index=0): {'verb': u'headbutt', 'actor': u'bandit', 'reciever': u'chef'}
+2.0377 	EXP 	Imported test.csv as conditions, 3 conditions, 3 params
+2.0379 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+2.0647 	EXP 	New trial (rep=0, index=0): {'verb': u'headbutt', 'actor': u'bandit', 'reciever': u'chef'}
+2.6012 	EXP 	ImageStim: autoLog = None
+2.6012 	EXP 	ImageStim: units = None
+2.6012 	EXP 	ImageStim: useShaders = None
+2.6012 	EXP 	ImageStim: size = None
+2.6012 	EXP 	ImageStim: pos = None
+2.6012 	EXP 	ImageStim: ori = None
+2.6012 	EXP 	ImageStim: depth = None
+2.6012 	EXP 	ImageStim: contrast = None
+2.6012 	EXP 	ImageStim: opacity = None
+2.6012 	EXP 	MovieStim: autoLog = None
+2.6012 	EXP 	MovieStim: units = None
+2.6012 	EXP 	Set movie movie=videos/bandit_chef_headbutt.avi
+2.6012 	EXP 	MovieStim: pos = None
+2.6012 	EXP 	MovieStim: depth = None
+2.6012 	EXP 	MovieStim: colorSpace = None
+2.6012 	EXP 	MovieStim: opacity = None
+2.6012 	EXP 	MovieStim: size = None
+2.6012 	EXP 	MovieStim: ori = None
+2.6012 	EXP 	MovieStim: autoLog = None
+2.6012 	EXP 	MovieStim: units = None
+2.6012 	EXP 	Set movie movie=videos/bandit_chef_headbutt.avi
+2.6012 	EXP 	MovieStim: pos = None
+2.6012 	EXP 	MovieStim: depth = None
+2.6012 	EXP 	MovieStim: colorSpace = None
+2.6012 	EXP 	MovieStim: opacity = None
+2.6012 	EXP 	MovieStim: size = None
+2.6012 	EXP 	MovieStim: ori = None
+2.6012 	EXP 	MovieStim: autoDraw = None
+2.6012 	EXP 	MovieStim: autoDraw = None
+4.1034 	WARNING 	Data file, data/_2015_Oct_13_0619.csv, will be overwritten

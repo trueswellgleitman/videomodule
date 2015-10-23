@@ -1,0 +1,50 @@
+4.6732 	EXP 	Imported images.csv as conditions, 5 conditions, 4 params
+4.6735 	EXP 	Created sequence: sequential, trialTypes=5, nReps=5, seed=None
+4.7025 	EXP 	New trial (rep=0, index=0): {'color': u'Red', 'verb': u'On', 'names': u'mountie', 'object': u'Stool'}
+4.7206 	EXP 	ImageStim: autoLog = None
+4.7206 	EXP 	ImageStim: units = None
+4.7206 	EXP 	ImageStim: useShaders = None
+4.7206 	EXP 	ImageStim: size = None
+4.7206 	EXP 	ImageStim: pos = None
+4.7206 	EXP 	ImageStim: ori = None
+4.7206 	EXP 	ImageStim: depth = None
+4.7206 	EXP 	ImageStim: contrast = None
+4.7206 	EXP 	ImageStim: opacity = None
+4.7206 	EXP 	Set image image=images/mountieOnRedStool.png
+4.7206 	EXP 	ImageStim: autoDraw = None
+5.4517 	DATA 	Keypress: right
+5.4524 	EXP 	New trial (rep=0, index=1): {'color': u'Red', 'verb': u'With', 'names': u'hunter', 'object': u'Stool'}
+5.4684 	EXP 	ImageStim: autoDraw = None
+5.4684 	EXP 	Set image image=images/hunterWithRedStool.png
+5.4684 	EXP 	ImageStim: autoDraw = None
+5.8407 	DATA 	Keypress: right
+5.9662 	EXP 	New trial (rep=0, index=2): {'color': u'Red', 'verb': u'On', 'names': u'hunter', 'object': u'Stool'}
+5.9790 	EXP 	ImageStim: autoDraw = None
+5.9790 	EXP 	Set image image=images/hunterOnRedStool.png
+5.9790 	EXP 	ImageStim: autoDraw = None
+6.2776 	DATA 	Keypress: right
+6.4802 	EXP 	New trial (rep=0, index=3): {'color': u'Blue', 'verb': u'Nextto', 'names': u'hunter', 'object': u'Stool'}
+6.4934 	EXP 	ImageStim: autoDraw = None
+6.4934 	EXP 	Set image image=images/hunterNexttoBlueStool.png
+6.4934 	EXP 	ImageStim: autoDraw = None
+6.7920 	DATA 	Keypress: right
+6.9945 	EXP 	New trial (rep=0, index=4): {'color': u'Red', 'verb': u'On', 'names': u'mountie', 'object': u'Skateboard'}
+7.0072 	EXP 	ImageStim: autoDraw = None
+7.0072 	EXP 	Set image image=images/mountieOnRedSkateboard.png
+7.0072 	EXP 	ImageStim: autoDraw = None
+7.3064 	DATA 	Keypress: right
+7.5083 	EXP 	New trial (rep=1, index=0): {'color': u'Red', 'verb': u'On', 'names': u'mountie', 'object': u'Stool'}
+7.5207 	EXP 	ImageStim: autoDraw = None
+7.5207 	EXP 	Set image image=images/mountieOnRedStool.png
+7.5207 	EXP 	ImageStim: autoDraw = None
+7.8284 	DATA 	Keypress: right
+8.0216 	EXP 	New trial (rep=1, index=1): {'color': u'Red', 'verb': u'With', 'names': u'hunter', 'object': u'Stool'}
+8.0345 	EXP 	ImageStim: autoDraw = None
+8.0345 	EXP 	Set image image=images/hunterWithRedStool.png
+8.0345 	EXP 	ImageStim: autoDraw = None
+8.3441 	DATA 	Keypress: right
+8.5354 	EXP 	New trial (rep=1, index=2): {'color': u'Red', 'verb': u'On', 'names': u'hunter', 'object': u'Stool'}
+8.5513 	EXP 	ImageStim: autoDraw = None
+8.5513 	EXP 	Set image image=images/hunterOnRedStool.png
+8.5513 	EXP 	ImageStim: autoDraw = None
+9.4184 	DATA 	Keypress: escape

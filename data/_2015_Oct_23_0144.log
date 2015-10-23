@@ -1,0 +1,53 @@
+1.7313 	WARNING 	User requested fullscreen with size [2560 1700], but screen is actually [2560, 1440]. Using actual size
+2.6694 	EXP 	Imported test.csv as conditions, 3 conditions, 11 params
+2.6696 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+2.7305 	EXP 	New trial (rep=0, index=0): {'receivertwo': u'hunter', 'soundverb': u'forp', 'verbtwo': u'rock', 'welcometext': u'My name is alien the alien and I will be showing you some experiments today. Press anywhere to continue', 'actor': u'bandit', 'verb': u'headbutt', 'receiver': u'chef', 'soundreceiver': u'doakla', 'correct': 1, 'soundactor': u'barsu', 'actortwo': u'bandit'}
+2.7658 	EXP 	TextStim: autoLog = None
+2.7658 	EXP 	TextStim: units = None
+2.7658 	EXP 	TextStim: useShaders = None
+2.7658 	EXP 	TextStim: depth = None
+2.7658 	EXP 	TextStim: ori = None
+2.7658 	EXP 	TextStim: pos = None
+2.7658 	EXP 	TextStim: colorSpace = None
+2.7658 	EXP 	TextStim: opacity = None
+2.7658 	EXP 	TextStim: contrast = None
+2.7658 	EXP 	ImageStim: autoLog = None
+2.7658 	EXP 	ImageStim: units = None
+2.7658 	EXP 	ImageStim: useShaders = None
+2.7658 	EXP 	ImageStim: size = None
+2.7658 	EXP 	ImageStim: pos = None
+2.7658 	EXP 	ImageStim: ori = None
+2.7658 	EXP 	ImageStim: depth = None
+2.7658 	EXP 	ImageStim: contrast = None
+2.7658 	EXP 	ImageStim: opacity = None
+2.7658 	EXP 	ImageStim: autoLog = None
+2.7658 	EXP 	ImageStim: units = None
+2.7658 	EXP 	ImageStim: useShaders = None
+2.7658 	EXP 	ImageStim: size = None
+2.7658 	EXP 	ImageStim: pos = None
+2.7658 	EXP 	ImageStim: ori = None
+2.7658 	EXP 	ImageStim: depth = None
+2.7658 	EXP 	ImageStim: contrast = None
+2.7658 	EXP 	ImageStim: opacity = None
+2.7658 	EXP 	Set text text=My name is alien the alien and I will be showing you some experiments today. Press anywhere to continue
+2.7658 	EXP 	TextStim: autoDraw = None
+2.7658 	EXP 	ImageStim: autoDraw = None
+3.1613 	DATA 	Mouse: Left button down, pos=(602,956)
+3.2840 	DATA 	Mouse: Left button up, pos=(602,956)
+3.3326 	DATA 	Mouse: Left button down, pos=(602,956)
+3.4498 	DATA 	Mouse: Left button up, pos=(606,952)
+3.5833 	DATA 	Mouse: Left button down, pos=(1317,627)
+3.6667 	DATA 	Mouse: Left button up, pos=(1368,616)
+3.8336 	DATA 	Mouse: Left button down, pos=(1175,875)
+3.9501 	DATA 	Mouse: Left button up, pos=(1051,887)
+4.0669 	DATA 	Mouse: Left button down, pos=(995,676)
+4.1838 	DATA 	Mouse: Left button up, pos=(1334,504)
+4.2335 	DATA 	Mouse: Left button down, pos=(1585,651)
+4.3337 	DATA 	Mouse: Left button up, pos=(1567,751)
+4.4337 	DATA 	Mouse: Left button down, pos=(1251,892)
+4.5340 	DATA 	Mouse: Left button up, pos=(1088,749)
+4.6018 	DATA 	Mouse: Left button down, pos=(1247,545)
+4.6844 	DATA 	Mouse: Left button up, pos=(1609,538)
+4.7676 	DATA 	Mouse: Left button down, pos=(1649,605)
+4.8676 	DATA 	Mouse: Left button up, pos=(1649,607)
+5.4177 	DATA 	Keypress: escape

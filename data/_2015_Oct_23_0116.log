@@ -1,0 +1,1090 @@
+1.7528 	WARNING 	User requested fullscreen with size [2560 1700], but screen is actually [2560, 1440]. Using actual size
+2.6858 	EXP 	Imported test.csv as conditions, 3 conditions, 11 params
+2.6861 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+2.7471 	EXP 	New trial (rep=0, index=0): {'receivertwo': u'hunter', 'soundverb': u'forp', 'verbtwo': u'rock', 'welcometext': u'hello welcome to the lab. You will be watching videos that will teach us something"', 'actor': u'bandit', 'verb': u'headbutt', 'receiver': u'chef', 'soundreceiver': u'doakla', 'correct': 1, 'soundactor': u'barsu', 'actortwo': u'bandit'}
+2.7680 	EXP 	TextStim: autoLog = None
+2.7680 	EXP 	TextStim: units = None
+2.7680 	EXP 	TextStim: useShaders = None
+2.7680 	EXP 	TextStim: depth = None
+2.7680 	EXP 	TextStim: ori = None
+2.7680 	EXP 	TextStim: pos = None
+2.7680 	EXP 	TextStim: colorSpace = None
+2.7680 	EXP 	TextStim: opacity = None
+2.7680 	EXP 	TextStim: contrast = None
+2.7680 	EXP 	ImageStim: autoLog = None
+2.7680 	EXP 	ImageStim: units = None
+2.7680 	EXP 	ImageStim: useShaders = None
+2.7680 	EXP 	ImageStim: size = None
+2.7680 	EXP 	ImageStim: pos = None
+2.7680 	EXP 	ImageStim: ori = None
+2.7680 	EXP 	ImageStim: depth = None
+2.7680 	EXP 	ImageStim: contrast = None
+2.7680 	EXP 	ImageStim: opacity = None
+2.7680 	EXP 	ImageStim: autoLog = None
+2.7680 	EXP 	ImageStim: units = None
+2.7680 	EXP 	ImageStim: useShaders = None
+2.7680 	EXP 	ImageStim: size = None
+2.7680 	EXP 	ImageStim: pos = None
+2.7680 	EXP 	ImageStim: ori = None
+2.7680 	EXP 	ImageStim: depth = None
+2.7680 	EXP 	ImageStim: contrast = None
+2.7680 	EXP 	ImageStim: opacity = None
+2.7680 	EXP 	TextStim: autoDraw = None
+2.7680 	EXP 	ImageStim: autoDraw = None
+3.7014 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+3.7014 	EXP 	Sound  started
+4.1746 	DATA 	Mouse: Left button down, pos=(1076,1145)
+4.2352 	EXP 	TextStim: autoDraw = None
+4.2352 	EXP 	ImageStim: autoDraw = None
+4.2352 	EXP 	MovieStim: autoLog = None
+4.2352 	EXP 	MovieStim: units = None
+4.2352 	EXP 	Set movie movie=videos/bandit_chef_headbutt.avi
+4.2352 	EXP 	MovieStim: pos = None
+4.2352 	EXP 	MovieStim: depth = None
+4.2352 	EXP 	MovieStim: colorSpace = None
+4.2352 	EXP 	MovieStim: opacity = None
+4.2352 	EXP 	MovieStim: size = None
+4.2352 	EXP 	MovieStim: ori = None
+4.2352 	EXP 	MovieStim: autoLog = None
+4.2352 	EXP 	MovieStim: units = None
+4.2352 	EXP 	Set movie movie=videos/bandit_hunter_rock.avi
+4.2352 	EXP 	MovieStim: pos = None
+4.2352 	EXP 	MovieStim: depth = None
+4.2352 	EXP 	MovieStim: colorSpace = None
+4.2352 	EXP 	MovieStim: opacity = None
+4.2352 	EXP 	MovieStim: size = None
+4.2352 	EXP 	MovieStim: ori = None
+4.2352 	EXP 	MovieStim: autoDraw = None
+4.2352 	EXP 	MovieStim: autoDraw = None
+4.6470 	DATA 	Mouse: Left button up, pos=(1076,1145)
+4.7910 	EXP 	Set  sound=C
+4.7926 	EXP 	Set  sound=button.wav
+4.7930 	EXP 	Set  sound=bad.wav
+4.7931 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.7931 	EXP 	Sound  started
+4.7946 	EXP 	New trial (rep=0, index=1): {'receivertwo': u'chef', 'soundverb': u'moship', 'verbtwo': u'knockover', 'welcometext': u'hello welcome to the lab. You will be watching videos that will teach us something"', 'actor': u'bandit', 'verb': u'knockover', 'receiver': u'hunter', 'soundreceiver': u'doakla', 'correct': 2, 'soundactor': u'barsu', 'actortwo': u'bandit'}
+4.8012 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+4.8012 	EXP 	Sound  started
+5.1525 	DATA 	Mouse: Left button down, pos=(884,904)
+5.2226 	DATA 	Mouse: Left button up, pos=(884,904)
+5.3184 	EXP 	MovieStim: autoDraw = None
+5.3184 	EXP 	MovieStim: autoDraw = None
+5.3184 	EXP 	MovieStim: autoLog = None
+5.3184 	EXP 	MovieStim: units = None
+5.3184 	EXP 	Set movie movie=videos/bandit_hunter_knockover.avi
+5.3184 	EXP 	MovieStim: pos = None
+5.3184 	EXP 	MovieStim: depth = None
+5.3184 	EXP 	MovieStim: colorSpace = None
+5.3184 	EXP 	MovieStim: opacity = None
+5.3184 	EXP 	MovieStim: size = None
+5.3184 	EXP 	MovieStim: ori = None
+5.3184 	EXP 	MovieStim: autoLog = None
+5.3184 	EXP 	MovieStim: units = None
+5.3184 	EXP 	Set movie movie=videos/bandit_chef_knockover.avi
+5.3184 	EXP 	MovieStim: pos = None
+5.3184 	EXP 	MovieStim: depth = None
+5.3184 	EXP 	MovieStim: colorSpace = None
+5.3184 	EXP 	MovieStim: opacity = None
+5.3184 	EXP 	MovieStim: size = None
+5.3184 	EXP 	MovieStim: ori = None
+5.3184 	EXP 	MovieStim: autoDraw = None
+5.3184 	EXP 	MovieStim: autoDraw = None
+5.3187 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.3187 	EXP 	Sound  started
+5.3368 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.3368 	EXP 	Sound  started
+5.3531 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.3531 	EXP 	Sound  started
+5.3700 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.3701 	EXP 	Sound  started
+5.3863 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.3863 	EXP 	Sound  started
+5.4035 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.4035 	EXP 	Sound  started
+5.4200 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.4200 	EXP 	Sound  started
+5.4368 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.4368 	EXP 	Sound  started
+5.4531 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.4531 	EXP 	Sound  started
+5.4701 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.4702 	EXP 	Sound  started
+5.4865 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.4865 	EXP 	Sound  started
+5.5035 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.5035 	EXP 	Sound  started
+5.5207 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.5207 	EXP 	Sound  started
+5.5372 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.5373 	EXP 	Sound  started
+5.5533 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.5534 	EXP 	Sound  started
+5.5704 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.5705 	EXP 	Sound  started
+5.5866 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.5866 	EXP 	Sound  started
+5.6032 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.6032 	EXP 	Sound  started
+5.6200 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.6200 	EXP 	Sound  started
+5.6373 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.6373 	EXP 	Sound  started
+5.6533 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.6533 	EXP 	Sound  started
+5.6702 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.6702 	EXP 	Sound  started
+5.6866 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.6866 	EXP 	Sound  started
+5.7044 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.7044 	EXP 	Sound  started
+5.7191 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.7191 	EXP 	Sound  started
+5.7369 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.7369 	EXP 	Sound  started
+5.7541 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.7542 	EXP 	Sound  started
+5.7706 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.7706 	EXP 	Sound  started
+5.7868 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.7869 	EXP 	Sound  started
+5.8034 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.8034 	EXP 	Sound  started
+5.8192 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.8192 	EXP 	Sound  started
+5.8372 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.8372 	EXP 	Sound  started
+5.8536 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.8536 	EXP 	Sound  started
+5.8701 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.8701 	EXP 	Sound  started
+5.8874 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.8874 	EXP 	Sound  started
+5.9039 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.9039 	EXP 	Sound  started
+5.9377 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.9377 	EXP 	Sound  started
+5.9537 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.9537 	EXP 	Sound  started
+5.9708 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.9708 	EXP 	Sound  started
+5.9871 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+5.9871 	EXP 	Sound  started
+6.0036 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.0036 	EXP 	Sound  started
+6.0194 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.0194 	EXP 	Sound  started
+6.0375 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.0375 	EXP 	Sound  started
+6.0537 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.0537 	EXP 	Sound  started
+6.0704 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.0704 	EXP 	Sound  started
+6.0876 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.0876 	EXP 	Sound  started
+6.1044 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.1044 	EXP 	Sound  started
+6.1379 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.1379 	EXP 	Sound  started
+6.1537 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.1538 	EXP 	Sound  started
+6.1712 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.1712 	EXP 	Sound  started
+6.1874 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.1875 	EXP 	Sound  started
+6.2039 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.2039 	EXP 	Sound  started
+6.2377 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.2377 	EXP 	Sound  started
+6.2539 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.2539 	EXP 	Sound  started
+6.2712 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.2712 	EXP 	Sound  started
+6.2873 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.2874 	EXP 	Sound  started
+6.3038 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.3038 	EXP 	Sound  started
+6.3196 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.3197 	EXP 	Sound  started
+6.3370 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.3371 	EXP 	Sound  started
+6.3542 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.3542 	EXP 	Sound  started
+6.3705 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.3705 	EXP 	Sound  started
+6.3874 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.3874 	EXP 	Sound  started
+6.4048 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.4048 	EXP 	Sound  started
+6.4380 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.4381 	EXP 	Sound  started
+6.4542 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.4542 	EXP 	Sound  started
+6.4706 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.4706 	EXP 	Sound  started
+6.4875 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.4876 	EXP 	Sound  started
+6.5040 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.5040 	EXP 	Sound  started
+6.5192 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.5192 	EXP 	Sound  started
+6.5373 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.5373 	EXP 	Sound  started
+6.5549 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.5549 	EXP 	Sound  started
+6.5714 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.5714 	EXP 	Sound  started
+6.5876 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.5876 	EXP 	Sound  started
+6.6040 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.6040 	EXP 	Sound  started
+6.6189 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.6189 	EXP 	Sound  started
+6.6374 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.6374 	EXP 	Sound  started
+6.6544 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.6545 	EXP 	Sound  started
+6.6708 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.6708 	EXP 	Sound  started
+6.6879 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.6879 	EXP 	Sound  started
+6.7042 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.7042 	EXP 	Sound  started
+6.7210 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.7210 	EXP 	Sound  started
+6.7384 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.7384 	EXP 	Sound  started
+6.7545 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.7545 	EXP 	Sound  started
+6.7701 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.7701 	EXP 	Sound  started
+6.7860 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.7860 	EXP 	Sound  started
+6.8027 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.8028 	EXP 	Sound  started
+6.8197 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.8197 	EXP 	Sound  started
+6.8360 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.8360 	EXP 	Sound  started
+6.8527 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.8527 	EXP 	Sound  started
+6.8694 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.8694 	EXP 	Sound  started
+6.8866 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.8866 	EXP 	Sound  started
+6.9028 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.9028 	EXP 	Sound  started
+6.9195 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.9195 	EXP 	Sound  started
+6.9361 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.9362 	EXP 	Sound  started
+6.9533 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.9533 	EXP 	Sound  started
+6.9696 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.9697 	EXP 	Sound  started
+6.9864 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.9864 	EXP 	Sound  started
+7.0031 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.0031 	EXP 	Sound  started
+7.0200 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.0200 	EXP 	Sound  started
+7.0362 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.0363 	EXP 	Sound  started
+7.0529 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.0530 	EXP 	Sound  started
+7.0698 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.0698 	EXP 	Sound  started
+7.0868 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.0869 	EXP 	Sound  started
+7.1032 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.1032 	EXP 	Sound  started
+7.1364 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.1364 	EXP 	Sound  started
+7.1535 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.1536 	EXP 	Sound  started
+7.1699 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.1699 	EXP 	Sound  started
+7.1866 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.1866 	EXP 	Sound  started
+7.2034 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.2034 	EXP 	Sound  started
+7.2202 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.2203 	EXP 	Sound  started
+7.2366 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.2366 	EXP 	Sound  started
+7.2532 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.2532 	EXP 	Sound  started
+7.2699 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.2699 	EXP 	Sound  started
+7.2707 	DATA 	Mouse: Left button down, pos=(884,904)
+7.2878 	EXP 	Set  sound=bad.wav
+7.2879 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.2879 	EXP 	Sound  started
+7.2888 	EXP 	New trial (rep=0, index=2): {'receivertwo': u'ref', 'soundverb': u'doakla', 'verbtwo': u'headbutt', 'welcometext': u'hello welcome to the lab. You will be watching videos that will teach us something"', 'actor': u'bandit', 'verb': u'rock', 'receiver': u'ref', 'soundreceiver': u'barsu', 'correct': 2, 'soundactor': u'kyse', 'actortwo': u'bandit'}
+7.2950 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+7.2951 	EXP 	Sound  started
+7.6876 	DATA 	Mouse: Left button up, pos=(884,904)
+7.8216 	EXP 	MovieStim: autoDraw = None
+7.8216 	EXP 	MovieStim: autoDraw = None
+7.8216 	EXP 	MovieStim: autoLog = None
+7.8216 	EXP 	MovieStim: units = None
+7.8216 	EXP 	Set movie movie=videos/bandit_ref_rock.avi
+7.8216 	EXP 	MovieStim: pos = None
+7.8216 	EXP 	MovieStim: depth = None
+7.8216 	EXP 	MovieStim: colorSpace = None
+7.8216 	EXP 	MovieStim: opacity = None
+7.8216 	EXP 	MovieStim: size = None
+7.8216 	EXP 	MovieStim: ori = None
+7.8216 	EXP 	MovieStim: autoLog = None
+7.8216 	EXP 	MovieStim: units = None
+7.8216 	EXP 	Set movie movie=videos/bandit_ref_headbutt.avi
+7.8216 	EXP 	MovieStim: pos = None
+7.8216 	EXP 	MovieStim: depth = None
+7.8216 	EXP 	MovieStim: colorSpace = None
+7.8216 	EXP 	MovieStim: opacity = None
+7.8216 	EXP 	MovieStim: size = None
+7.8216 	EXP 	MovieStim: ori = None
+7.8216 	EXP 	MovieStim: autoDraw = None
+7.8216 	EXP 	MovieStim: autoDraw = None
+7.8220 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+7.8220 	EXP 	Sound  started
+7.8384 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+7.8384 	EXP 	Sound  started
+7.8554 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+7.8554 	EXP 	Sound  started
+7.8719 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+7.8719 	EXP 	Sound  started
+7.8891 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+7.8892 	EXP 	Sound  started
+7.9052 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+7.9053 	EXP 	Sound  started
+7.9226 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+7.9226 	EXP 	Sound  started
+7.9386 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+7.9386 	EXP 	Sound  started
+7.9556 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+7.9556 	EXP 	Sound  started
+7.9719 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+7.9719 	EXP 	Sound  started
+7.9868 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+7.9868 	EXP 	Sound  started
+8.0040 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.0040 	EXP 	Sound  started
+8.0210 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.0211 	EXP 	Sound  started
+8.0374 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.0375 	EXP 	Sound  started
+8.0544 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.0544 	EXP 	Sound  started
+8.0707 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.0707 	EXP 	Sound  started
+8.1039 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.1039 	EXP 	Sound  started
+8.1209 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.1210 	EXP 	Sound  started
+8.1374 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.1374 	EXP 	Sound  started
+8.1533 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.1533 	EXP 	Sound  started
+8.1708 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.1708 	EXP 	Sound  started
+8.1877 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.1877 	EXP 	Sound  started
+8.2042 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.2042 	EXP 	Sound  started
+8.2209 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.2209 	EXP 	Sound  started
+8.2369 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.2369 	EXP 	Sound  started
+8.2536 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.2536 	EXP 	Sound  started
+8.2710 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.2710 	EXP 	Sound  started
+8.2874 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.2874 	EXP 	Sound  started
+8.3042 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.3043 	EXP 	Sound  started
+8.3210 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.3210 	EXP 	Sound  started
+8.3375 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.3376 	EXP 	Sound  started
+8.3544 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.3544 	EXP 	Sound  started
+8.3709 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.3709 	EXP 	Sound  started
+8.3877 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.3877 	EXP 	Sound  started
+8.4042 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.4042 	EXP 	Sound  started
+8.4209 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.4209 	EXP 	Sound  started
+8.4374 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.4374 	EXP 	Sound  started
+8.4540 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.4540 	EXP 	Sound  started
+8.4710 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.4710 	EXP 	Sound  started
+8.5038 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.5038 	EXP 	Sound  started
+8.5210 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.5210 	EXP 	Sound  started
+8.5379 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.5379 	EXP 	Sound  started
+8.5534 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.5534 	EXP 	Sound  started
+8.5708 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.5708 	EXP 	Sound  started
+8.5873 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.5873 	EXP 	Sound  started
+8.6043 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.6043 	EXP 	Sound  started
+8.6204 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.6204 	EXP 	Sound  started
+8.6380 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.6380 	EXP 	Sound  started
+8.6540 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.6540 	EXP 	Sound  started
+8.6710 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.6710 	EXP 	Sound  started
+8.6881 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.6881 	EXP 	Sound  started
+8.7046 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.7046 	EXP 	Sound  started
+8.7205 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.7205 	EXP 	Sound  started
+8.7381 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.7381 	EXP 	Sound  started
+8.7538 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.7539 	EXP 	Sound  started
+8.7714 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.7714 	EXP 	Sound  started
+8.7875 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.7875 	EXP 	Sound  started
+8.8048 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.8048 	EXP 	Sound  started
+8.8209 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.8210 	EXP 	Sound  started
+8.8374 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.8374 	EXP 	Sound  started
+8.8541 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.8542 	EXP 	Sound  started
+8.8716 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.8716 	EXP 	Sound  started
+8.9049 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.9049 	EXP 	Sound  started
+8.9216 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.9216 	EXP 	Sound  started
+8.9383 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.9383 	EXP 	Sound  started
+8.9544 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.9544 	EXP 	Sound  started
+8.9708 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.9708 	EXP 	Sound  started
+8.9879 	EXP 	Set movie finished
+8.9881 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.9881 	EXP 	Sound  started
+9.0048 	EXP 	Set movie paused
+9.0051 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.0051 	EXP 	Sound  started
+9.0211 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.0211 	EXP 	Sound  started
+9.0375 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.0375 	EXP 	Sound  started
+9.0546 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.0546 	EXP 	Sound  started
+9.0706 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.0706 	EXP 	Sound  started
+9.0882 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.0882 	EXP 	Sound  started
+9.1047 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.1047 	EXP 	Sound  started
+9.1213 	DATA 	Mouse: Left button down, pos=(884,903)
+9.1222 	EXP 	Set  sound=bad.wav
+9.1223 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.1223 	EXP 	Sound  started
+9.1235 	EXP 	Imported images.csv as conditions, 5 conditions, 4 params
+9.1237 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+9.1249 	EXP 	New trial (rep=0, index=0): {'color': u'Red', 'verb': u'On', 'names': u'mountie', 'object': u'Stool'}
+9.1543 	EXP 	MovieStim: autoDraw = None
+9.1543 	EXP 	MovieStim: autoDraw = None
+9.1543 	EXP 	Set image_2 image=images/mountieOnRedStool.png
+9.1543 	EXP 	ImageStim: autoDraw = None
+9.2388 	DATA 	Mouse: Left button up, pos=(884,903)
+9.6716 	DATA 	Mouse: Left button down, pos=(884,903)
+9.6731 	EXP 	New trial (rep=0, index=1): {'color': u'Red', 'verb': u'With', 'names': u'hunter', 'object': u'Stool'}
+9.6885 	EXP 	ImageStim: autoDraw = None
+9.6885 	EXP 	Set image_2 image=images/hunterWithRedStool.png
+9.6885 	EXP 	ImageStim: autoDraw = None
+9.8051 	DATA 	Mouse: Left button up, pos=(884,903)
+9.9385 	DATA 	Mouse: Left button down, pos=(884,903)
+9.9395 	EXP 	New trial (rep=0, index=2): {'color': u'Red', 'verb': u'On', 'names': u'hunter', 'object': u'Stool'}
+9.9556 	EXP 	ImageStim: autoDraw = None
+9.9556 	EXP 	Set image_2 image=images/hunterOnRedStool.png
+9.9556 	EXP 	ImageStim: autoDraw = None
+10.0391 	DATA 	Mouse: Left button up, pos=(884,903)
+10.1387 	DATA 	Mouse: Left button down, pos=(884,903)
+10.1396 	EXP 	New trial (rep=0, index=3): {'color': u'Blue', 'verb': u'Nextto', 'names': u'hunter', 'object': u'Stool'}
+10.1556 	EXP 	ImageStim: autoDraw = None
+10.1556 	EXP 	Set image_2 image=images/hunterNexttoBlueStool.png
+10.1556 	EXP 	ImageStim: autoDraw = None
+10.2396 	DATA 	Mouse: Left button up, pos=(884,903)
+10.3406 	DATA 	Mouse: Left button down, pos=(884,903)
+10.3416 	EXP 	New trial (rep=0, index=4): {'color': u'Red', 'verb': u'On', 'names': u'mountie', 'object': u'Skateboard'}
+10.3573 	EXP 	ImageStim: autoDraw = None
+10.3573 	EXP 	Set image_2 image=images/mountieOnRedSkateboard.png
+10.3573 	EXP 	ImageStim: autoDraw = None
+10.4409 	DATA 	Mouse: Left button up, pos=(884,903)
+10.6744 	DATA 	Mouse: Left button down, pos=(884,903)
+1.7453 	WARNING 	User requested fullscreen with size [2560 1700], but screen is actually [2560, 1440]. Using actual size
+2.6865 	EXP 	Imported test.csv as conditions, 3 conditions, 11 params
+2.6868 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+2.7481 	EXP 	New trial (rep=0, index=0): {'receivertwo': u'hunter', 'soundverb': u'forp', 'verbtwo': u'rock', 'welcometext': u'hello welcome to the lab. You will be watching videos that will teach us something"', 'actor': u'bandit', 'verb': u'headbutt', 'receiver': u'chef', 'soundreceiver': u'doakla', 'correct': 1, 'soundactor': u'barsu', 'actortwo': u'bandit'}
+2.7664 	EXP 	TextStim: autoLog = None
+2.7664 	EXP 	TextStim: units = None
+2.7664 	EXP 	TextStim: useShaders = None
+2.7664 	EXP 	TextStim: depth = None
+2.7664 	EXP 	TextStim: ori = None
+2.7664 	EXP 	TextStim: pos = None
+2.7664 	EXP 	TextStim: colorSpace = None
+2.7664 	EXP 	TextStim: opacity = None
+2.7664 	EXP 	TextStim: contrast = None
+2.7664 	EXP 	ImageStim: autoLog = None
+2.7664 	EXP 	ImageStim: units = None
+2.7664 	EXP 	ImageStim: useShaders = None
+2.7664 	EXP 	ImageStim: size = None
+2.7664 	EXP 	ImageStim: pos = None
+2.7664 	EXP 	ImageStim: ori = None
+2.7664 	EXP 	ImageStim: depth = None
+2.7664 	EXP 	ImageStim: contrast = None
+2.7664 	EXP 	ImageStim: opacity = None
+2.7664 	EXP 	ImageStim: autoLog = None
+2.7664 	EXP 	ImageStim: units = None
+2.7664 	EXP 	ImageStim: useShaders = None
+2.7664 	EXP 	ImageStim: size = None
+2.7664 	EXP 	ImageStim: pos = None
+2.7664 	EXP 	ImageStim: ori = None
+2.7664 	EXP 	ImageStim: depth = None
+2.7664 	EXP 	ImageStim: contrast = None
+2.7664 	EXP 	ImageStim: opacity = None
+2.7664 	EXP 	TextStim: autoDraw = None
+2.7664 	EXP 	ImageStim: autoDraw = None
+3.7158 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+3.7159 	EXP 	Sound  started
+4.2348 	EXP 	TextStim: autoDraw = None
+4.2348 	EXP 	ImageStim: autoDraw = None
+4.2348 	EXP 	MovieStim: autoLog = None
+4.2348 	EXP 	MovieStim: units = None
+4.2348 	EXP 	Set movie movie=videos/bandit_chef_headbutt.avi
+4.2348 	EXP 	MovieStim: pos = None
+4.2348 	EXP 	MovieStim: depth = None
+4.2348 	EXP 	MovieStim: colorSpace = None
+4.2348 	EXP 	MovieStim: opacity = None
+4.2348 	EXP 	MovieStim: size = None
+4.2348 	EXP 	MovieStim: ori = None
+4.2348 	EXP 	MovieStim: autoLog = None
+4.2348 	EXP 	MovieStim: units = None
+4.2348 	EXP 	Set movie movie=videos/bandit_hunter_rock.avi
+4.2348 	EXP 	MovieStim: pos = None
+4.2348 	EXP 	MovieStim: depth = None
+4.2348 	EXP 	MovieStim: colorSpace = None
+4.2348 	EXP 	MovieStim: opacity = None
+4.2348 	EXP 	MovieStim: size = None
+4.2348 	EXP 	MovieStim: ori = None
+4.2348 	EXP 	MovieStim: autoDraw = None
+4.2348 	EXP 	MovieStim: autoDraw = None
+4.2351 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.2351 	EXP 	Sound  started
+4.2514 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.2514 	EXP 	Sound  started
+4.2678 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.2678 	EXP 	Sound  started
+4.2839 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.2839 	EXP 	Sound  started
+4.3011 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.3011 	EXP 	Sound  started
+4.3173 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.3173 	EXP 	Sound  started
+4.3349 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.3349 	EXP 	Sound  started
+4.3511 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.3511 	EXP 	Sound  started
+4.3675 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.3676 	EXP 	Sound  started
+4.3848 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.3849 	EXP 	Sound  started
+4.4015 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.4015 	EXP 	Sound  started
+4.4183 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.4183 	EXP 	Sound  started
+4.4340 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.4341 	EXP 	Sound  started
+4.4502 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.4503 	EXP 	Sound  started
+4.4660 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.4660 	EXP 	Sound  started
+4.4829 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.4829 	EXP 	Sound  started
+4.4997 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.4997 	EXP 	Sound  started
+4.5166 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.5166 	EXP 	Sound  started
+4.5327 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.5327 	EXP 	Sound  started
+4.5503 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.5503 	EXP 	Sound  started
+4.5661 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.5662 	EXP 	Sound  started
+4.5834 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.5834 	EXP 	Sound  started
+4.5995 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.5995 	EXP 	Sound  started
+4.6169 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.6170 	EXP 	Sound  started
+4.6328 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.6328 	EXP 	Sound  started
+4.6499 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.6499 	EXP 	Sound  started
+4.6666 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.6666 	EXP 	Sound  started
+4.6836 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.6836 	EXP 	Sound  started
+4.6995 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.6995 	EXP 	Sound  started
+4.7168 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.7168 	EXP 	Sound  started
+4.7334 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.7334 	EXP 	Sound  started
+4.7495 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.7495 	EXP 	Sound  started
+4.7664 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.7664 	EXP 	Sound  started
+4.7832 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.7833 	EXP 	Sound  started
+4.7997 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.7997 	EXP 	Sound  started
+4.8173 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.8173 	EXP 	Sound  started
+4.8328 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.8328 	EXP 	Sound  started
+4.8499 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.8499 	EXP 	Sound  started
+4.8670 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.8670 	EXP 	Sound  started
+4.8830 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.8830 	EXP 	Sound  started
+4.8998 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.8998 	EXP 	Sound  started
+4.9167 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.9168 	EXP 	Sound  started
+4.9331 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.9331 	EXP 	Sound  started
+4.9497 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.9497 	EXP 	Sound  started
+4.9665 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.9665 	EXP 	Sound  started
+4.9836 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.9836 	EXP 	Sound  started
+4.9998 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+4.9998 	EXP 	Sound  started
+5.0170 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.0170 	EXP 	Sound  started
+5.0338 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.0339 	EXP 	Sound  started
+5.0505 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.0505 	EXP 	Sound  started
+5.0674 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.0674 	EXP 	Sound  started
+5.0832 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.0832 	EXP 	Sound  started
+5.1001 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.1001 	EXP 	Sound  started
+5.1170 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.1170 	EXP 	Sound  started
+5.1339 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.1339 	EXP 	Sound  started
+5.1504 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.1504 	EXP 	Sound  started
+5.1672 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.1673 	EXP 	Sound  started
+5.1836 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.1836 	EXP 	Sound  started
+5.2006 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.2006 	EXP 	Sound  started
+5.2168 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.2168 	EXP 	Sound  started
+5.2339 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.2339 	EXP 	Sound  started
+5.2504 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.2504 	EXP 	Sound  started
+5.2669 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.2669 	EXP 	Sound  started
+5.2838 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.2838 	EXP 	Sound  started
+5.2999 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.2999 	EXP 	Sound  started
+5.3170 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.3170 	EXP 	Sound  started
+5.3336 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.3337 	EXP 	Sound  started
+5.3501 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.3502 	EXP 	Sound  started
+5.3670 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.3671 	EXP 	Sound  started
+5.3840 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.3840 	EXP 	Sound  started
+5.4005 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.4006 	EXP 	Sound  started
+5.4171 	EXP 	Set movie finished
+5.4174 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.4174 	EXP 	Sound  started
+5.4339 	EXP 	Set movie paused
+5.4341 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.4342 	EXP 	Sound  started
+5.4510 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.4510 	EXP 	Sound  started
+5.4673 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.4673 	EXP 	Sound  started
+5.4842 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.4842 	EXP 	Sound  started
+5.5000 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.5001 	EXP 	Sound  started
+5.5169 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.5170 	EXP 	Sound  started
+5.5344 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.5344 	EXP 	Sound  started
+5.5504 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.5504 	EXP 	Sound  started
+5.5673 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.5673 	EXP 	Sound  started
+5.5842 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.5842 	EXP 	Sound  started
+5.6005 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.6006 	EXP 	Sound  started
+5.6169 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.6170 	EXP 	Sound  started
+5.6341 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.6342 	EXP 	Sound  started
+5.6516 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.6516 	EXP 	Sound  started
+5.6677 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.6677 	EXP 	Sound  started
+5.6836 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.6836 	EXP 	Sound  started
+5.7002 	EXP 	Set movie finished
+5.7005 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.7005 	EXP 	Sound  started
+5.7171 	EXP 	Set movie paused
+5.7173 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.7174 	EXP 	Sound  started
+5.7343 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+5.7344 	EXP 	Sound  started
+5.7513 	DATA 	Mouse: Left button down, pos=(985,910)
+6.0974 	DATA 	Mouse: Left button up, pos=(985,910)
+6.3128 	EXP 	Set  sound=C
+6.3166 	EXP 	Set  sound=button.wav
+6.3170 	EXP 	Set  sound=bad.wav
+6.3171 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+6.3171 	EXP 	Sound  started
+6.3185 	EXP 	New trial (rep=0, index=1): {'receivertwo': u'chef', 'soundverb': u'moship', 'verbtwo': u'knockover', 'welcometext': u'hello welcome to the lab. You will be watching videos that will teach us something"', 'actor': u'bandit', 'verb': u'knockover', 'receiver': u'hunter', 'soundreceiver': u'doakla', 'correct': 2, 'soundactor': u'barsu', 'actortwo': u'bandit'}
+6.3246 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.3246 	EXP 	Sound  started
+6.8529 	EXP 	MovieStim: autoDraw = None
+6.8529 	EXP 	MovieStim: autoDraw = None
+6.8529 	EXP 	MovieStim: autoLog = None
+6.8529 	EXP 	MovieStim: units = None
+6.8529 	EXP 	Set movie movie=videos/bandit_hunter_knockover.avi
+6.8529 	EXP 	MovieStim: pos = None
+6.8529 	EXP 	MovieStim: depth = None
+6.8529 	EXP 	MovieStim: colorSpace = None
+6.8529 	EXP 	MovieStim: opacity = None
+6.8529 	EXP 	MovieStim: size = None
+6.8529 	EXP 	MovieStim: ori = None
+6.8529 	EXP 	MovieStim: autoLog = None
+6.8529 	EXP 	MovieStim: units = None
+6.8529 	EXP 	Set movie movie=videos/bandit_chef_knockover.avi
+6.8529 	EXP 	MovieStim: pos = None
+6.8529 	EXP 	MovieStim: depth = None
+6.8529 	EXP 	MovieStim: colorSpace = None
+6.8529 	EXP 	MovieStim: opacity = None
+6.8529 	EXP 	MovieStim: size = None
+6.8529 	EXP 	MovieStim: ori = None
+6.8529 	EXP 	MovieStim: autoDraw = None
+6.8529 	EXP 	MovieStim: autoDraw = None
+6.8532 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.8532 	EXP 	Sound  started
+6.8694 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.8695 	EXP 	Sound  started
+6.8868 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.8868 	EXP 	Sound  started
+6.9028 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.9028 	EXP 	Sound  started
+6.9199 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.9199 	EXP 	Sound  started
+6.9362 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.9362 	EXP 	Sound  started
+6.9529 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.9530 	EXP 	Sound  started
+6.9694 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.9695 	EXP 	Sound  started
+6.9866 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+6.9866 	EXP 	Sound  started
+7.0029 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.0029 	EXP 	Sound  started
+7.0201 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.0201 	EXP 	Sound  started
+7.0362 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.0362 	EXP 	Sound  started
+7.0532 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.0532 	EXP 	Sound  started
+7.0699 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.0699 	EXP 	Sound  started
+7.0865 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.0865 	EXP 	Sound  started
+7.1029 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.1029 	EXP 	Sound  started
+7.1201 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.1201 	EXP 	Sound  started
+7.1364 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.1364 	EXP 	Sound  started
+7.1517 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.1517 	EXP 	Sound  started
+7.1697 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.1697 	EXP 	Sound  started
+7.1870 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.1870 	EXP 	Sound  started
+7.2030 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.2031 	EXP 	Sound  started
+7.2204 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.2205 	EXP 	Sound  started
+7.2366 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.2366 	EXP 	Sound  started
+7.2705 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.2705 	EXP 	Sound  started
+7.2871 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.2871 	EXP 	Sound  started
+7.3031 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.3032 	EXP 	Sound  started
+7.3205 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.3206 	EXP 	Sound  started
+7.3366 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.3366 	EXP 	Sound  started
+7.3521 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.3522 	EXP 	Sound  started
+7.3699 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.3699 	EXP 	Sound  started
+7.3865 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.3865 	EXP 	Sound  started
+7.4034 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.4034 	EXP 	Sound  started
+7.4205 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.4205 	EXP 	Sound  started
+7.4367 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.4367 	EXP 	Sound  started
+7.4702 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.4702 	EXP 	Sound  started
+7.4869 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.4869 	EXP 	Sound  started
+7.5034 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.5034 	EXP 	Sound  started
+7.5199 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.5199 	EXP 	Sound  started
+7.5369 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.5369 	EXP 	Sound  started
+7.5701 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.5701 	EXP 	Sound  started
+7.5866 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.5866 	EXP 	Sound  started
+7.6037 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.6037 	EXP 	Sound  started
+7.6205 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.6205 	EXP 	Sound  started
+7.6367 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.6368 	EXP 	Sound  started
+7.6704 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.6704 	EXP 	Sound  started
+7.6868 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.6868 	EXP 	Sound  started
+7.7035 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.7035 	EXP 	Sound  started
+7.7200 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.7200 	EXP 	Sound  started
+7.7370 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.7370 	EXP 	Sound  started
+7.7702 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.7702 	EXP 	Sound  started
+7.7867 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.7868 	EXP 	Sound  started
+7.8038 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.8038 	EXP 	Sound  started
+7.8206 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.8206 	EXP 	Sound  started
+7.8370 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.8370 	EXP 	Sound  started
+7.8703 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.8703 	EXP 	Sound  started
+7.8868 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.8868 	EXP 	Sound  started
+7.9038 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.9038 	EXP 	Sound  started
+7.9203 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.9203 	EXP 	Sound  started
+7.9374 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.9374 	EXP 	Sound  started
+7.9705 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.9706 	EXP 	Sound  started
+7.9869 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+7.9870 	EXP 	Sound  started
+8.0042 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+8.0042 	EXP 	Sound  started
+8.0211 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+8.0212 	EXP 	Sound  started
+8.0373 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+8.0373 	EXP 	Sound  started
+8.0706 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+8.0706 	EXP 	Sound  started
+8.0870 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+8.0870 	EXP 	Sound  started
+8.1040 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+8.1041 	EXP 	Sound  started
+8.1205 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+8.1205 	EXP 	Sound  started
+8.1376 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+8.1376 	EXP 	Sound  started
+8.1706 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+8.1707 	EXP 	Sound  started
+8.1873 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+8.1873 	EXP 	Sound  started
+8.2045 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+8.2045 	EXP 	Sound  started
+8.2205 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+8.2205 	EXP 	Sound  started
+8.2374 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+8.2374 	EXP 	Sound  started
+8.2542 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+8.2542 	EXP 	Sound  started
+8.2711 	DATA 	Mouse: Left button down, pos=(985,910)
+8.2720 	EXP 	Set  sound=bad.wav
+8.2721 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+8.2721 	EXP 	Sound  started
+8.2731 	EXP 	New trial (rep=0, index=2): {'receivertwo': u'ref', 'soundverb': u'doakla', 'verbtwo': u'headbutt', 'welcometext': u'hello welcome to the lab. You will be watching videos that will teach us something"', 'actor': u'bandit', 'verb': u'rock', 'receiver': u'ref', 'soundreceiver': u'barsu', 'correct': 2, 'soundactor': u'kyse', 'actortwo': u'bandit'}
+8.2796 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.2796 	EXP 	Sound  started
+8.6715 	DATA 	Mouse: Left button up, pos=(985,910)
+8.8043 	EXP 	MovieStim: autoDraw = None
+8.8043 	EXP 	MovieStim: autoDraw = None
+8.8043 	EXP 	MovieStim: autoLog = None
+8.8043 	EXP 	MovieStim: units = None
+8.8043 	EXP 	Set movie movie=videos/bandit_ref_rock.avi
+8.8043 	EXP 	MovieStim: pos = None
+8.8043 	EXP 	MovieStim: depth = None
+8.8043 	EXP 	MovieStim: colorSpace = None
+8.8043 	EXP 	MovieStim: opacity = None
+8.8043 	EXP 	MovieStim: size = None
+8.8043 	EXP 	MovieStim: ori = None
+8.8043 	EXP 	MovieStim: autoLog = None
+8.8043 	EXP 	MovieStim: units = None
+8.8043 	EXP 	Set movie movie=videos/bandit_ref_headbutt.avi
+8.8043 	EXP 	MovieStim: pos = None
+8.8043 	EXP 	MovieStim: depth = None
+8.8043 	EXP 	MovieStim: colorSpace = None
+8.8043 	EXP 	MovieStim: opacity = None
+8.8043 	EXP 	MovieStim: size = None
+8.8043 	EXP 	MovieStim: ori = None
+8.8043 	EXP 	MovieStim: autoDraw = None
+8.8043 	EXP 	MovieStim: autoDraw = None
+8.8046 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.8046 	EXP 	Sound  started
+8.8210 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.8211 	EXP 	Sound  started
+8.8383 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.8383 	EXP 	Sound  started
+8.8544 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.8544 	EXP 	Sound  started
+8.8717 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.8717 	EXP 	Sound  started
+8.8878 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.8878 	EXP 	Sound  started
+8.9052 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.9052 	EXP 	Sound  started
+8.9212 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.9212 	EXP 	Sound  started
+8.9383 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.9384 	EXP 	Sound  started
+8.9545 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.9545 	EXP 	Sound  started
+8.9704 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.9705 	EXP 	Sound  started
+8.9863 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+8.9863 	EXP 	Sound  started
+9.0037 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.0037 	EXP 	Sound  started
+9.0199 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.0199 	EXP 	Sound  started
+9.0361 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.0361 	EXP 	Sound  started
+9.0531 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.0531 	EXP 	Sound  started
+9.0865 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.0865 	EXP 	Sound  started
+9.1034 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.1034 	EXP 	Sound  started
+9.1202 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.1202 	EXP 	Sound  started
+9.1373 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.1374 	EXP 	Sound  started
+9.1534 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.1534 	EXP 	Sound  started
+9.1695 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.1695 	EXP 	Sound  started
+9.1867 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.1867 	EXP 	Sound  started
+9.2038 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.2038 	EXP 	Sound  started
+9.2202 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.2202 	EXP 	Sound  started
+9.2363 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.2363 	EXP 	Sound  started
+9.2534 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.2534 	EXP 	Sound  started
+9.2695 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.2696 	EXP 	Sound  started
+9.2869 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.2869 	EXP 	Sound  started
+9.3032 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.3032 	EXP 	Sound  started
+9.3203 	DATA 	Mouse: Left button down, pos=(985,910)
+9.3211 	EXP 	Set  sound=bad.wav
+9.3211 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+9.3212 	EXP 	Sound  started
+9.3225 	EXP 	Imported images.csv as conditions, 5 conditions, 4 params
+9.3228 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+9.3239 	EXP 	New trial (rep=0, index=0): {'color': u'Red', 'verb': u'On', 'names': u'mountie', 'object': u'Stool'}
+9.3532 	EXP 	MovieStim: autoDraw = None
+9.3532 	EXP 	MovieStim: autoDraw = None
+9.3532 	EXP 	Set image_2 image=images/mountieOnRedStool.png
+9.3532 	EXP 	ImageStim: autoDraw = None
+9.4534 	DATA 	Mouse: Left button up, pos=(985,910)
+9.7703 	DATA 	Mouse: Left button down, pos=(985,910)
+9.7715 	EXP 	New trial (rep=0, index=1): {'color': u'Red', 'verb': u'With', 'names': u'hunter', 'object': u'Stool'}
+9.7868 	EXP 	ImageStim: autoDraw = None
+9.7868 	EXP 	Set image_2 image=images/hunterWithRedStool.png
+9.7868 	EXP 	ImageStim: autoDraw = None
+9.8877 	DATA 	Mouse: Left button up, pos=(985,910)
+10.0208 	DATA 	Mouse: Left button down, pos=(985,910)
+10.0217 	EXP 	New trial (rep=0, index=2): {'color': u'Red', 'verb': u'On', 'names': u'hunter', 'object': u'Stool'}
+10.0374 	EXP 	ImageStim: autoDraw = None
+10.0374 	EXP 	Set image_2 image=images/hunterOnRedStool.png
+10.0374 	EXP 	ImageStim: autoDraw = None
+10.1046 	DATA 	Mouse: Left button up, pos=(985,910)
+10.2546 	DATA 	Mouse: Left button down, pos=(985,910)
+10.2556 	EXP 	New trial (rep=0, index=3): {'color': u'Blue', 'verb': u'Nextto', 'names': u'hunter', 'object': u'Stool'}
+10.2875 	EXP 	ImageStim: autoDraw = None
+10.2875 	EXP 	Set image_2 image=images/hunterNexttoBlueStool.png
+10.2875 	EXP 	ImageStim: autoDraw = None
+10.3709 	DATA 	Mouse: Left button up, pos=(985,910)
+10.5233 	DATA 	Mouse: Left button down, pos=(985,910)
+10.5243 	EXP 	New trial (rep=0, index=4): {'color': u'Red', 'verb': u'On', 'names': u'mountie', 'object': u'Skateboard'}
+10.5366 	EXP 	ImageStim: autoDraw = None
+10.5366 	EXP 	Set image_2 image=images/mountieOnRedSkateboard.png
+10.5366 	EXP 	ImageStim: autoDraw = None
+10.6398 	DATA 	Mouse: Left button up, pos=(985,910)
+10.9393 	DATA 	Mouse: Left button down, pos=(985,910)

@@ -1,0 +1,8 @@
+2.2320 	DATA 	Keypress: right
+3.5538 	WARNING 	Data file, data/_2015_Oct_13_0528.csv, will be overwritten
+1.9399 	WARNING 	Data file, data/_2015_Oct_13_0528.csv, will be overwritten
+2.2577 	EXP 	Imported images.csv as conditions, 5 conditions, 4 params
+2.2580 	EXP 	Created sequence: sequential, trialTypes=5, nReps=5, seed=None
+2.2584 	EXP 	New trial (rep=0, index=0): {'color': u'Red', 'verb': u'On', 'names': u'mountie', 'object': u'Stool'}
+2.2585 	ERROR 	Couldn't find image file 'tglab/images/mountieOnRedStool'; check path?
+2.2873 	WARNING 	Data file, data/_2015_Oct_13_0528.csv, will be overwritten

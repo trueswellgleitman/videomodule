@@ -1,0 +1,41 @@
+2.3130 	EXP 	Imported images.csv as conditions, 5 conditions, 4 params
+2.3133 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+2.3139 	EXP 	New trial (rep=0, index=0): {'color': u'Red', 'verb': u'On', 'names': u'mountie', 'object': u'Stool'}
+2.3362 	EXP 	ImageStim: autoLog = None
+2.3362 	EXP 	ImageStim: units = None
+2.3362 	EXP 	ImageStim: useShaders = None
+2.3362 	EXP 	ImageStim: size = None
+2.3362 	EXP 	ImageStim: pos = None
+2.3362 	EXP 	ImageStim: ori = None
+2.3362 	EXP 	ImageStim: depth = None
+2.3362 	EXP 	ImageStim: contrast = None
+2.3362 	EXP 	ImageStim: opacity = None
+2.3362 	EXP 	Set image image=images/mountieOnRedStool.png
+2.3362 	EXP 	ImageStim: autoDraw = None
+2.8902 	DATA 	Mouse: Left button down, pos=(1237,771)
+2.8913 	EXP 	New trial (rep=0, index=1): {'color': u'Red', 'verb': u'With', 'names': u'hunter', 'object': u'Stool'}
+2.9070 	EXP 	ImageStim: autoDraw = None
+2.9070 	EXP 	Set image image=images/hunterWithRedStool.png
+2.9070 	EXP 	ImageStim: autoDraw = None
+3.2025 	DATA 	Mouse: Left button up, pos=(1237,771)
+3.3878 	DATA 	Mouse: Left button down, pos=(1235,771)
+3.4052 	EXP 	New trial (rep=0, index=2): {'color': u'Red', 'verb': u'On', 'names': u'hunter', 'object': u'Stool'}
+3.4180 	EXP 	ImageStim: autoDraw = None
+3.4180 	EXP 	Set image image=images/hunterOnRedStool.png
+3.4180 	EXP 	ImageStim: autoDraw = None
+3.7165 	DATA 	Mouse: Left button up, pos=(1234,771)
+3.7166 	DATA 	Mouse: Left button down, pos=(1234,771)
+3.7611 	DATA 	Mouse: Left button up, pos=(1234,771)
+4.3074 	DATA 	Mouse: Left button down, pos=(1234,771)
+4.3090 	EXP 	New trial (rep=0, index=3): {'color': u'Blue', 'verb': u'Nextto', 'names': u'hunter', 'object': u'Stool'}
+4.3275 	EXP 	ImageStim: autoDraw = None
+4.3275 	EXP 	Set image image=images/hunterNexttoBlueStool.png
+4.3275 	EXP 	ImageStim: autoDraw = None
+4.6258 	DATA 	Mouse: Left button up, pos=(1234,771)
+4.8400 	DATA 	Mouse: Left button down, pos=(1234,771)
+4.8407 	EXP 	New trial (rep=0, index=4): {'color': u'Red', 'verb': u'On', 'names': u'mountie', 'object': u'Skateboard'}
+4.8565 	EXP 	ImageStim: autoDraw = None
+4.8565 	EXP 	Set image image=images/mountieOnRedSkateboard.png
+4.8565 	EXP 	ImageStim: autoDraw = None
+5.1522 	DATA 	Mouse: Left button up, pos=(1234,771)
+5.2973 	DATA 	Mouse: Left button down, pos=(1234,771)

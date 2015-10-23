@@ -1,0 +1,28 @@
+2.9690 	EXP 	Imported test.csv as conditions, 3 conditions, 3 params
+2.9698 	EXP 	Created sequence: sequential, trialTypes=3, nReps=5, seed=None
+3.0049 	EXP 	New trial (rep=0, index=0): {'verb': u'headbutt', 'actor': u'bandit', 'reciever': u'chef'}
+3.0507 	EXP 	MovieStim: autoLog = None
+3.0507 	EXP 	MovieStim: units = None
+3.0507 	EXP 	Set movie movie=videos/bandit_chef_headbutt.avi
+3.0507 	EXP 	MovieStim: pos = None
+3.0507 	EXP 	MovieStim: depth = None
+3.0507 	EXP 	MovieStim: colorSpace = None
+3.0507 	EXP 	MovieStim: opacity = None
+3.0507 	EXP 	MovieStim: size = None
+3.0507 	EXP 	MovieStim: ori = None
+3.0507 	EXP 	MovieStim: autoLog = None
+3.0507 	EXP 	MovieStim: units = None
+3.0507 	EXP 	Set movie_2 movie=videos/bandit_chef_headbutt.avi
+3.0507 	EXP 	MovieStim: pos = None
+3.0507 	EXP 	MovieStim: depth = None
+3.0507 	EXP 	MovieStim: colorSpace = None
+3.0507 	EXP 	MovieStim: opacity = None
+3.0507 	EXP 	MovieStim: size = None
+3.0507 	EXP 	MovieStim: ori = None
+3.0507 	EXP 	MovieStim: autoDraw = None
+3.0507 	EXP 	MovieStim: autoDraw = None
+7.8373 	DATA 	Keypress: right
+7.8374 	DATA 	Keypress: left
+7.8375 	DATA 	Keypress: right
+8.0386 	EXP 	Set movie finished
+8.0386 	EXP 	Set movie_2 finished

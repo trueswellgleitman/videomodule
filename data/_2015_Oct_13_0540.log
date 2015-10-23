@@ -1,0 +1,35 @@
+2.0141 	EXP 	Imported test.csv as conditions, 3 conditions, 3 params
+2.0143 	EXP 	Created sequence: sequential, trialTypes=3, nReps=5, seed=None
+2.0400 	EXP 	New trial (rep=0, index=0): {'verb': u'headbutt', 'actor': u'bandit', 'reciever': u'chef'}
+2.0885 	EXP 	ImageStim: autoLog = None
+2.0885 	EXP 	ImageStim: units = None
+2.0885 	EXP 	ImageStim: useShaders = None
+2.0885 	EXP 	ImageStim: size = None
+2.0885 	EXP 	ImageStim: pos = None
+2.0885 	EXP 	ImageStim: ori = None
+2.0885 	EXP 	ImageStim: depth = None
+2.0885 	EXP 	ImageStim: contrast = None
+2.0885 	EXP 	ImageStim: opacity = None
+2.0885 	EXP 	MovieStim: autoLog = None
+2.0885 	EXP 	MovieStim: units = None
+2.0885 	EXP 	Set movie movie=videos/bandit_chef_headbutt.avi
+2.0885 	EXP 	MovieStim: pos = None
+2.0885 	EXP 	MovieStim: depth = None
+2.0885 	EXP 	MovieStim: colorSpace = None
+2.0885 	EXP 	MovieStim: opacity = None
+2.0885 	EXP 	MovieStim: size = None
+2.0885 	EXP 	MovieStim: ori = None
+2.0885 	EXP 	MovieStim: autoLog = None
+2.0885 	EXP 	MovieStim: units = None
+2.0885 	EXP 	Set movie_2 movie=videos/bandit_chef_headbutt.avi
+2.0885 	EXP 	MovieStim: pos = None
+2.0885 	EXP 	MovieStim: depth = None
+2.0885 	EXP 	MovieStim: colorSpace = None
+2.0885 	EXP 	MovieStim: opacity = None
+2.0885 	EXP 	MovieStim: size = None
+2.0885 	EXP 	MovieStim: ori = None
+2.0885 	EXP 	MovieStim: autoDraw = None
+2.0885 	EXP 	MovieStim: autoDraw = None
+6.8783 	DATA 	Keypress: escape
+6.8785 	DATA 	Mouse: Left button down, pos=(1214,1121)
+6.8785 	DATA 	Mouse: Left button up, pos=(1214,1123)

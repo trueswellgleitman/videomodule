@@ -1,0 +1,5 @@
+receivertwo,soundverb,verbtwo,welcometext,actor,verb,receiver,soundreceiver,correct,soundactor,actortwo,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,date,frameRate,expName,session,participant,
+ref,doakla,headbutt,hello welcome to the lab. You will be watching videos that will teach us something",bandit,rock,ref,barsu,2,kyse,bandit,0,0,0,2,2015_Oct_23_0107,59.9703744374,text experiment,001,,
+chef,moship,knockover,hello welcome to the lab. You will be watching videos that will teach us something",bandit,knockover,hunter,doakla,2,barsu,bandit,0,1,1,1,2015_Oct_23_0107,59.9703744374,text experiment,001,,
+hunter,forp,rock,hello welcome to the lab. You will be watching videos that will teach us something",bandit,headbutt,chef,doakla,1,barsu,bandit,0,2,2,0,2015_Oct_23_0107,59.9703744374,text experiment,001,,
+hunter,forp,rock,hello welcome to the lab. You will be watching videos that will teach us something",bandit,headbutt,chef,doakla,1,barsu,bandit,1,0,3,0,2015_Oct_23_0107,59.9703744374,text experiment,001,,

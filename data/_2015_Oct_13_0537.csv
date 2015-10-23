@@ -1,0 +1,6 @@
+color,verb,names,object,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,mouse.x,mouse.y,mouse.leftButton,mouse.midButton,mouse.rightButton,mouse.time,date,frameRate,expName,session,participant,
+Red,On,mountie,Stool,0,0,0,0,-0.1328125,0.0423529411765,1,0,0,1.21631002426,2015_Oct_13_0537,60.0041773843,attempt,001,,
+Red,With,hunter,Stool,0,1,1,1,0.0578125,0.0129411764706,1,0,0,0.765826940536,2015_Oct_13_0537,60.0041773843,attempt,001,,
+Red,On,hunter,Stool,0,2,2,2,0.05859375,0.0129411764706,1,0,0,0.512707948685,2015_Oct_13_0537,60.0041773843,attempt,001,,
+Blue,Nextto,hunter,Stool,0,3,3,3,0.05625,0.0117647058824,1,0,0,1.31799006462,2015_Oct_13_0537,60.0041773843,attempt,001,,
+Red,On,mountie,Skateboard,0,4,4,4,0.05625,0.0117647058824,1,0,0,0.615955114365,2015_Oct_13_0537,60.0041773843,attempt,001,,

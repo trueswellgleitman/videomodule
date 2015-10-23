@@ -1,0 +1,375 @@
+2.5511 	EXP 	Imported test.csv as conditions, 3 conditions, 3 params
+2.5518 	EXP 	Created sequence: sequential, trialTypes=3, nReps=5, seed=None
+2.5994 	EXP 	New trial (rep=0, index=0): {'verb': u'headbutt', 'actor': u'bandit', 'reciever': u'chef'}
+2.6527 	EXP 	MovieStim: autoLog = None
+2.6527 	EXP 	MovieStim: units = None
+2.6527 	EXP 	Set movie movie=videos/bandit_chef_headbutt.avi
+2.6527 	EXP 	MovieStim: pos = None
+2.6527 	EXP 	MovieStim: depth = None
+2.6527 	EXP 	MovieStim: colorSpace = None
+2.6527 	EXP 	MovieStim: opacity = None
+2.6527 	EXP 	MovieStim: size = None
+2.6527 	EXP 	MovieStim: ori = None
+2.6527 	EXP 	MovieStim: autoLog = None
+2.6527 	EXP 	MovieStim: units = None
+2.6527 	EXP 	Set movie_2 movie=videos/bandit_chef_headbutt.avi
+2.6527 	EXP 	MovieStim: pos = None
+2.6527 	EXP 	MovieStim: depth = None
+2.6527 	EXP 	MovieStim: colorSpace = None
+2.6527 	EXP 	MovieStim: opacity = None
+2.6527 	EXP 	MovieStim: size = None
+2.6527 	EXP 	MovieStim: ori = None
+2.6527 	EXP 	MovieStim: autoDraw = None
+2.6527 	EXP 	MovieStim: autoDraw = None
+7.6419 	EXP 	Set movie finished
+7.6419 	EXP 	Set movie_2 finished
+7.6427 	EXP 	New trial (rep=0, index=1): {'verb': u'knockover', 'actor': u'bandit', 'reciever': u'hunter'}
+7.6830 	EXP 	MovieStim: autoDraw = None
+7.6830 	EXP 	MovieStim: autoDraw = None
+7.6830 	EXP 	MovieStim: autoLog = None
+7.6830 	EXP 	MovieStim: units = None
+7.6830 	EXP 	Set movie movie=videos/bandit_hunter_knockover.avi
+7.6830 	EXP 	MovieStim: pos = None
+7.6830 	EXP 	MovieStim: depth = None
+7.6830 	EXP 	MovieStim: colorSpace = None
+7.6830 	EXP 	MovieStim: opacity = None
+7.6830 	EXP 	MovieStim: size = None
+7.6830 	EXP 	MovieStim: ori = None
+7.6830 	EXP 	MovieStim: autoLog = None
+7.6830 	EXP 	MovieStim: units = None
+7.6830 	EXP 	Set movie_2 movie=videos/bandit_hunter_knockover.avi
+7.6830 	EXP 	MovieStim: pos = None
+7.6830 	EXP 	MovieStim: depth = None
+7.6830 	EXP 	MovieStim: colorSpace = None
+7.6830 	EXP 	MovieStim: opacity = None
+7.6830 	EXP 	MovieStim: size = None
+7.6830 	EXP 	MovieStim: ori = None
+7.6830 	EXP 	MovieStim: autoDraw = None
+7.6830 	EXP 	MovieStim: autoDraw = None
+12.6732 	EXP 	Set movie finished
+12.6732 	EXP 	Set movie_2 finished
+12.6737 	EXP 	New trial (rep=0, index=2): {'verb': u'rock', 'actor': u'bandit', 'reciever': u'ref'}
+12.7057 	EXP 	MovieStim: autoDraw = None
+12.7057 	EXP 	MovieStim: autoDraw = None
+12.7057 	EXP 	MovieStim: autoLog = None
+12.7057 	EXP 	MovieStim: units = None
+12.7057 	EXP 	Set movie movie=videos/bandit_ref_rock.avi
+12.7057 	EXP 	MovieStim: pos = None
+12.7057 	EXP 	MovieStim: depth = None
+12.7057 	EXP 	MovieStim: colorSpace = None
+12.7057 	EXP 	MovieStim: opacity = None
+12.7057 	EXP 	MovieStim: size = None
+12.7057 	EXP 	MovieStim: ori = None
+12.7057 	EXP 	MovieStim: autoLog = None
+12.7057 	EXP 	MovieStim: units = None
+12.7057 	EXP 	Set movie_2 movie=videos/bandit_ref_rock.avi
+12.7057 	EXP 	MovieStim: pos = None
+12.7057 	EXP 	MovieStim: depth = None
+12.7057 	EXP 	MovieStim: colorSpace = None
+12.7057 	EXP 	MovieStim: opacity = None
+12.7057 	EXP 	MovieStim: size = None
+12.7057 	EXP 	MovieStim: ori = None
+12.7057 	EXP 	MovieStim: autoDraw = None
+12.7057 	EXP 	MovieStim: autoDraw = None
+17.6972 	EXP 	Set movie finished
+17.6972 	EXP 	Set movie_2 finished
+17.6978 	EXP 	New trial (rep=1, index=0): {'verb': u'headbutt', 'actor': u'bandit', 'reciever': u'chef'}
+17.7329 	EXP 	MovieStim: autoDraw = None
+17.7329 	EXP 	MovieStim: autoDraw = None
+17.7329 	EXP 	MovieStim: autoLog = None
+17.7329 	EXP 	MovieStim: units = None
+17.7329 	EXP 	Set movie movie=videos/bandit_chef_headbutt.avi
+17.7329 	EXP 	MovieStim: pos = None
+17.7329 	EXP 	MovieStim: depth = None
+17.7329 	EXP 	MovieStim: colorSpace = None
+17.7329 	EXP 	MovieStim: opacity = None
+17.7329 	EXP 	MovieStim: size = None
+17.7329 	EXP 	MovieStim: ori = None
+17.7329 	EXP 	MovieStim: autoLog = None
+17.7329 	EXP 	MovieStim: units = None
+17.7329 	EXP 	Set movie_2 movie=videos/bandit_chef_headbutt.avi
+17.7329 	EXP 	MovieStim: pos = None
+17.7329 	EXP 	MovieStim: depth = None
+17.7329 	EXP 	MovieStim: colorSpace = None
+17.7329 	EXP 	MovieStim: opacity = None
+17.7329 	EXP 	MovieStim: size = None
+17.7329 	EXP 	MovieStim: ori = None
+17.7329 	EXP 	MovieStim: autoDraw = None
+17.7329 	EXP 	MovieStim: autoDraw = None
+22.7208 	EXP 	Set movie finished
+22.7208 	EXP 	Set movie_2 finished
+22.7213 	EXP 	New trial (rep=1, index=1): {'verb': u'knockover', 'actor': u'bandit', 'reciever': u'hunter'}
+22.7514 	EXP 	MovieStim: autoDraw = None
+22.7514 	EXP 	MovieStim: autoDraw = None
+22.7514 	EXP 	MovieStim: autoLog = None
+22.7514 	EXP 	MovieStim: units = None
+22.7514 	EXP 	Set movie movie=videos/bandit_hunter_knockover.avi
+22.7514 	EXP 	MovieStim: pos = None
+22.7514 	EXP 	MovieStim: depth = None
+22.7514 	EXP 	MovieStim: colorSpace = None
+22.7514 	EXP 	MovieStim: opacity = None
+22.7514 	EXP 	MovieStim: size = None
+22.7514 	EXP 	MovieStim: ori = None
+22.7514 	EXP 	MovieStim: autoLog = None
+22.7514 	EXP 	MovieStim: units = None
+22.7514 	EXP 	Set movie_2 movie=videos/bandit_hunter_knockover.avi
+22.7514 	EXP 	MovieStim: pos = None
+22.7514 	EXP 	MovieStim: depth = None
+22.7514 	EXP 	MovieStim: colorSpace = None
+22.7514 	EXP 	MovieStim: opacity = None
+22.7514 	EXP 	MovieStim: size = None
+22.7514 	EXP 	MovieStim: ori = None
+22.7514 	EXP 	MovieStim: autoDraw = None
+22.7514 	EXP 	MovieStim: autoDraw = None
+27.7435 	EXP 	Set movie finished
+27.7435 	EXP 	Set movie_2 finished
+27.7440 	EXP 	New trial (rep=1, index=2): {'verb': u'rock', 'actor': u'bandit', 'reciever': u'ref'}
+27.7794 	EXP 	MovieStim: autoDraw = None
+27.7794 	EXP 	MovieStim: autoDraw = None
+27.7794 	EXP 	MovieStim: autoLog = None
+27.7794 	EXP 	MovieStim: units = None
+27.7794 	EXP 	Set movie movie=videos/bandit_ref_rock.avi
+27.7794 	EXP 	MovieStim: pos = None
+27.7794 	EXP 	MovieStim: depth = None
+27.7794 	EXP 	MovieStim: colorSpace = None
+27.7794 	EXP 	MovieStim: opacity = None
+27.7794 	EXP 	MovieStim: size = None
+27.7794 	EXP 	MovieStim: ori = None
+27.7794 	EXP 	MovieStim: autoLog = None
+27.7794 	EXP 	MovieStim: units = None
+27.7794 	EXP 	Set movie_2 movie=videos/bandit_ref_rock.avi
+27.7794 	EXP 	MovieStim: pos = None
+27.7794 	EXP 	MovieStim: depth = None
+27.7794 	EXP 	MovieStim: colorSpace = None
+27.7794 	EXP 	MovieStim: opacity = None
+27.7794 	EXP 	MovieStim: size = None
+27.7794 	EXP 	MovieStim: ori = None
+27.7794 	EXP 	MovieStim: autoDraw = None
+27.7794 	EXP 	MovieStim: autoDraw = None
+32.7661 	EXP 	Set movie finished
+32.7661 	EXP 	Set movie_2 finished
+32.7667 	EXP 	New trial (rep=2, index=0): {'verb': u'headbutt', 'actor': u'bandit', 'reciever': u'chef'}
+32.7965 	EXP 	MovieStim: autoDraw = None
+32.7965 	EXP 	MovieStim: autoDraw = None
+32.7965 	EXP 	MovieStim: autoLog = None
+32.7965 	EXP 	MovieStim: units = None
+32.7965 	EXP 	Set movie movie=videos/bandit_chef_headbutt.avi
+32.7965 	EXP 	MovieStim: pos = None
+32.7965 	EXP 	MovieStim: depth = None
+32.7965 	EXP 	MovieStim: colorSpace = None
+32.7965 	EXP 	MovieStim: opacity = None
+32.7965 	EXP 	MovieStim: size = None
+32.7965 	EXP 	MovieStim: ori = None
+32.7965 	EXP 	MovieStim: autoLog = None
+32.7965 	EXP 	MovieStim: units = None
+32.7965 	EXP 	Set movie_2 movie=videos/bandit_chef_headbutt.avi
+32.7965 	EXP 	MovieStim: pos = None
+32.7965 	EXP 	MovieStim: depth = None
+32.7965 	EXP 	MovieStim: colorSpace = None
+32.7965 	EXP 	MovieStim: opacity = None
+32.7965 	EXP 	MovieStim: size = None
+32.7965 	EXP 	MovieStim: ori = None
+32.7965 	EXP 	MovieStim: autoDraw = None
+32.7965 	EXP 	MovieStim: autoDraw = None
+37.7884 	EXP 	Set movie finished
+37.7884 	EXP 	Set movie_2 finished
+37.7889 	EXP 	New trial (rep=2, index=1): {'verb': u'knockover', 'actor': u'bandit', 'reciever': u'hunter'}
+37.8255 	EXP 	MovieStim: autoDraw = None
+37.8255 	EXP 	MovieStim: autoDraw = None
+37.8255 	EXP 	MovieStim: autoLog = None
+37.8255 	EXP 	MovieStim: units = None
+37.8255 	EXP 	Set movie movie=videos/bandit_hunter_knockover.avi
+37.8255 	EXP 	MovieStim: pos = None
+37.8255 	EXP 	MovieStim: depth = None
+37.8255 	EXP 	MovieStim: colorSpace = None
+37.8255 	EXP 	MovieStim: opacity = None
+37.8255 	EXP 	MovieStim: size = None
+37.8255 	EXP 	MovieStim: ori = None
+37.8255 	EXP 	MovieStim: autoLog = None
+37.8255 	EXP 	MovieStim: units = None
+37.8255 	EXP 	Set movie_2 movie=videos/bandit_hunter_knockover.avi
+37.8255 	EXP 	MovieStim: pos = None
+37.8255 	EXP 	MovieStim: depth = None
+37.8255 	EXP 	MovieStim: colorSpace = None
+37.8255 	EXP 	MovieStim: opacity = None
+37.8255 	EXP 	MovieStim: size = None
+37.8255 	EXP 	MovieStim: ori = None
+37.8255 	EXP 	MovieStim: autoDraw = None
+37.8255 	EXP 	MovieStim: autoDraw = None
+42.8121 	EXP 	Set movie finished
+42.8121 	EXP 	Set movie_2 finished
+42.8127 	EXP 	New trial (rep=2, index=2): {'verb': u'rock', 'actor': u'bandit', 'reciever': u'ref'}
+42.8428 	EXP 	MovieStim: autoDraw = None
+42.8428 	EXP 	MovieStim: autoDraw = None
+42.8428 	EXP 	MovieStim: autoLog = None
+42.8428 	EXP 	MovieStim: units = None
+42.8428 	EXP 	Set movie movie=videos/bandit_ref_rock.avi
+42.8428 	EXP 	MovieStim: pos = None
+42.8428 	EXP 	MovieStim: depth = None
+42.8428 	EXP 	MovieStim: colorSpace = None
+42.8428 	EXP 	MovieStim: opacity = None
+42.8428 	EXP 	MovieStim: size = None
+42.8428 	EXP 	MovieStim: ori = None
+42.8428 	EXP 	MovieStim: autoLog = None
+42.8428 	EXP 	MovieStim: units = None
+42.8428 	EXP 	Set movie_2 movie=videos/bandit_ref_rock.avi
+42.8428 	EXP 	MovieStim: pos = None
+42.8428 	EXP 	MovieStim: depth = None
+42.8428 	EXP 	MovieStim: colorSpace = None
+42.8428 	EXP 	MovieStim: opacity = None
+42.8428 	EXP 	MovieStim: size = None
+42.8428 	EXP 	MovieStim: ori = None
+42.8428 	EXP 	MovieStim: autoDraw = None
+42.8428 	EXP 	MovieStim: autoDraw = None
+47.8393 	EXP 	Set movie finished
+47.8393 	EXP 	Set movie_2 finished
+47.8398 	EXP 	New trial (rep=3, index=0): {'verb': u'headbutt', 'actor': u'bandit', 'reciever': u'chef'}
+47.8753 	EXP 	MovieStim: autoDraw = None
+47.8753 	EXP 	MovieStim: autoDraw = None
+47.8753 	EXP 	MovieStim: autoLog = None
+47.8753 	EXP 	MovieStim: units = None
+47.8753 	EXP 	Set movie movie=videos/bandit_chef_headbutt.avi
+47.8753 	EXP 	MovieStim: pos = None
+47.8753 	EXP 	MovieStim: depth = None
+47.8753 	EXP 	MovieStim: colorSpace = None
+47.8753 	EXP 	MovieStim: opacity = None
+47.8753 	EXP 	MovieStim: size = None
+47.8753 	EXP 	MovieStim: ori = None
+47.8753 	EXP 	MovieStim: autoLog = None
+47.8753 	EXP 	MovieStim: units = None
+47.8753 	EXP 	Set movie_2 movie=videos/bandit_chef_headbutt.avi
+47.8753 	EXP 	MovieStim: pos = None
+47.8753 	EXP 	MovieStim: depth = None
+47.8753 	EXP 	MovieStim: colorSpace = None
+47.8753 	EXP 	MovieStim: opacity = None
+47.8753 	EXP 	MovieStim: size = None
+47.8753 	EXP 	MovieStim: ori = None
+47.8753 	EXP 	MovieStim: autoDraw = None
+47.8753 	EXP 	MovieStim: autoDraw = None
+52.8677 	EXP 	Set movie finished
+52.8677 	EXP 	Set movie_2 finished
+52.8683 	EXP 	New trial (rep=3, index=1): {'verb': u'knockover', 'actor': u'bandit', 'reciever': u'hunter'}
+52.8981 	EXP 	MovieStim: autoDraw = None
+52.8981 	EXP 	MovieStim: autoDraw = None
+52.8981 	EXP 	MovieStim: autoLog = None
+52.8981 	EXP 	MovieStim: units = None
+52.8981 	EXP 	Set movie movie=videos/bandit_hunter_knockover.avi
+52.8981 	EXP 	MovieStim: pos = None
+52.8981 	EXP 	MovieStim: depth = None
+52.8981 	EXP 	MovieStim: colorSpace = None
+52.8981 	EXP 	MovieStim: opacity = None
+52.8981 	EXP 	MovieStim: size = None
+52.8981 	EXP 	MovieStim: ori = None
+52.8981 	EXP 	MovieStim: autoLog = None
+52.8981 	EXP 	MovieStim: units = None
+52.8981 	EXP 	Set movie_2 movie=videos/bandit_hunter_knockover.avi
+52.8981 	EXP 	MovieStim: pos = None
+52.8981 	EXP 	MovieStim: depth = None
+52.8981 	EXP 	MovieStim: colorSpace = None
+52.8981 	EXP 	MovieStim: opacity = None
+52.8981 	EXP 	MovieStim: size = None
+52.8981 	EXP 	MovieStim: ori = None
+52.8981 	EXP 	MovieStim: autoDraw = None
+52.8981 	EXP 	MovieStim: autoDraw = None
+57.8921 	EXP 	Set movie finished
+57.8921 	EXP 	Set movie_2 finished
+57.8926 	EXP 	New trial (rep=3, index=2): {'verb': u'rock', 'actor': u'bandit', 'reciever': u'ref'}
+57.9230 	EXP 	MovieStim: autoDraw = None
+57.9230 	EXP 	MovieStim: autoDraw = None
+57.9230 	EXP 	MovieStim: autoLog = None
+57.9230 	EXP 	MovieStim: units = None
+57.9230 	EXP 	Set movie movie=videos/bandit_ref_rock.avi
+57.9230 	EXP 	MovieStim: pos = None
+57.9230 	EXP 	MovieStim: depth = None
+57.9230 	EXP 	MovieStim: colorSpace = None
+57.9230 	EXP 	MovieStim: opacity = None
+57.9230 	EXP 	MovieStim: size = None
+57.9230 	EXP 	MovieStim: ori = None
+57.9230 	EXP 	MovieStim: autoLog = None
+57.9230 	EXP 	MovieStim: units = None
+57.9230 	EXP 	Set movie_2 movie=videos/bandit_ref_rock.avi
+57.9230 	EXP 	MovieStim: pos = None
+57.9230 	EXP 	MovieStim: depth = None
+57.9230 	EXP 	MovieStim: colorSpace = None
+57.9230 	EXP 	MovieStim: opacity = None
+57.9230 	EXP 	MovieStim: size = None
+57.9230 	EXP 	MovieStim: ori = None
+57.9230 	EXP 	MovieStim: autoDraw = None
+57.9230 	EXP 	MovieStim: autoDraw = None
+62.9161 	EXP 	Set movie finished
+62.9161 	EXP 	Set movie_2 finished
+62.9166 	EXP 	New trial (rep=4, index=0): {'verb': u'headbutt', 'actor': u'bandit', 'reciever': u'chef'}
+62.9470 	EXP 	MovieStim: autoDraw = None
+62.9470 	EXP 	MovieStim: autoDraw = None
+62.9470 	EXP 	MovieStim: autoLog = None
+62.9470 	EXP 	MovieStim: units = None
+62.9470 	EXP 	Set movie movie=videos/bandit_chef_headbutt.avi
+62.9470 	EXP 	MovieStim: pos = None
+62.9470 	EXP 	MovieStim: depth = None
+62.9470 	EXP 	MovieStim: colorSpace = None
+62.9470 	EXP 	MovieStim: opacity = None
+62.9470 	EXP 	MovieStim: size = None
+62.9470 	EXP 	MovieStim: ori = None
+62.9470 	EXP 	MovieStim: autoLog = None
+62.9470 	EXP 	MovieStim: units = None
+62.9470 	EXP 	Set movie_2 movie=videos/bandit_chef_headbutt.avi
+62.9470 	EXP 	MovieStim: pos = None
+62.9470 	EXP 	MovieStim: depth = None
+62.9470 	EXP 	MovieStim: colorSpace = None
+62.9470 	EXP 	MovieStim: opacity = None
+62.9470 	EXP 	MovieStim: size = None
+62.9470 	EXP 	MovieStim: ori = None
+62.9470 	EXP 	MovieStim: autoDraw = None
+62.9470 	EXP 	MovieStim: autoDraw = None
+67.9428 	EXP 	Set movie finished
+67.9428 	EXP 	Set movie_2 finished
+67.9434 	EXP 	New trial (rep=4, index=1): {'verb': u'knockover', 'actor': u'bandit', 'reciever': u'hunter'}
+67.9734 	EXP 	MovieStim: autoDraw = None
+67.9734 	EXP 	MovieStim: autoDraw = None
+67.9734 	EXP 	MovieStim: autoLog = None
+67.9734 	EXP 	MovieStim: units = None
+67.9734 	EXP 	Set movie movie=videos/bandit_hunter_knockover.avi
+67.9734 	EXP 	MovieStim: pos = None
+67.9734 	EXP 	MovieStim: depth = None
+67.9734 	EXP 	MovieStim: colorSpace = None
+67.9734 	EXP 	MovieStim: opacity = None
+67.9734 	EXP 	MovieStim: size = None
+67.9734 	EXP 	MovieStim: ori = None
+67.9734 	EXP 	MovieStim: autoLog = None
+67.9734 	EXP 	MovieStim: units = None
+67.9734 	EXP 	Set movie_2 movie=videos/bandit_hunter_knockover.avi
+67.9734 	EXP 	MovieStim: pos = None
+67.9734 	EXP 	MovieStim: depth = None
+67.9734 	EXP 	MovieStim: colorSpace = None
+67.9734 	EXP 	MovieStim: opacity = None
+67.9734 	EXP 	MovieStim: size = None
+67.9734 	EXP 	MovieStim: ori = None
+67.9734 	EXP 	MovieStim: autoDraw = None
+67.9734 	EXP 	MovieStim: autoDraw = None
+72.9651 	EXP 	Set movie finished
+72.9651 	EXP 	Set movie_2 finished
+72.9656 	EXP 	New trial (rep=4, index=2): {'verb': u'rock', 'actor': u'bandit', 'reciever': u'ref'}
+72.9946 	EXP 	MovieStim: autoDraw = None
+72.9946 	EXP 	MovieStim: autoDraw = None
+72.9946 	EXP 	MovieStim: autoLog = None
+72.9946 	EXP 	MovieStim: units = None
+72.9946 	EXP 	Set movie movie=videos/bandit_ref_rock.avi
+72.9946 	EXP 	MovieStim: pos = None
+72.9946 	EXP 	MovieStim: depth = None
+72.9946 	EXP 	MovieStim: colorSpace = None
+72.9946 	EXP 	MovieStim: opacity = None
+72.9946 	EXP 	MovieStim: size = None
+72.9946 	EXP 	MovieStim: ori = None
+72.9946 	EXP 	MovieStim: autoLog = None
+72.9946 	EXP 	MovieStim: units = None
+72.9946 	EXP 	Set movie_2 movie=videos/bandit_ref_rock.avi
+72.9946 	EXP 	MovieStim: pos = None
+72.9946 	EXP 	MovieStim: depth = None
+72.9946 	EXP 	MovieStim: colorSpace = None
+72.9946 	EXP 	MovieStim: opacity = None
+72.9946 	EXP 	MovieStim: size = None
+72.9946 	EXP 	MovieStim: ori = None
+72.9946 	EXP 	MovieStim: autoDraw = None
+72.9946 	EXP 	MovieStim: autoDraw = None
+77.9893 	EXP 	Set movie finished
+77.9893 	EXP 	Set movie_2 finished

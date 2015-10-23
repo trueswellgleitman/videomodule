@@ -1,0 +1,122 @@
+1.9429 	EXP 	Imported test.csv as conditions, 3 conditions, 3 params
+1.9432 	EXP 	Created sequence: sequential, trialTypes=3, nReps=5, seed=None
+1.9705 	EXP 	New trial (rep=0, index=0): {'verb': u'headbutt', 'actor': u'bandit', 'reciever': u'chef'}
+2.0191 	EXP 	ImageStim: autoLog = None
+2.0191 	EXP 	ImageStim: units = None
+2.0191 	EXP 	ImageStim: useShaders = None
+2.0191 	EXP 	ImageStim: size = None
+2.0191 	EXP 	ImageStim: pos = None
+2.0191 	EXP 	ImageStim: ori = None
+2.0191 	EXP 	ImageStim: depth = None
+2.0191 	EXP 	ImageStim: contrast = None
+2.0191 	EXP 	ImageStim: opacity = None
+2.0191 	EXP 	MovieStim: autoLog = None
+2.0191 	EXP 	MovieStim: units = None
+2.0191 	EXP 	Set movie movie=videos/bandit_chef_headbutt.avi
+2.0191 	EXP 	MovieStim: pos = None
+2.0191 	EXP 	MovieStim: depth = None
+2.0191 	EXP 	MovieStim: colorSpace = None
+2.0191 	EXP 	MovieStim: opacity = None
+2.0191 	EXP 	MovieStim: size = None
+2.0191 	EXP 	MovieStim: ori = None
+2.0191 	EXP 	MovieStim: autoLog = None
+2.0191 	EXP 	MovieStim: units = None
+2.0191 	EXP 	Set movie_2 movie=videos/bandit_chef_headbutt.avi
+2.0191 	EXP 	MovieStim: pos = None
+2.0191 	EXP 	MovieStim: depth = None
+2.0191 	EXP 	MovieStim: colorSpace = None
+2.0191 	EXP 	MovieStim: opacity = None
+2.0191 	EXP 	MovieStim: size = None
+2.0191 	EXP 	MovieStim: ori = None
+2.0191 	EXP 	MovieStim: autoDraw = None
+2.0191 	EXP 	MovieStim: autoDraw = None
+6.8057 	DATA 	Keypress: right
+6.8065 	DATA 	Mouse: Left button down, pos=(836,794)
+6.8066 	DATA 	Mouse: Left button up, pos=(836,794)
+6.8072 	DATA 	Mouse: Left button down, pos=(1486,777)
+6.8073 	DATA 	Mouse: Left button up, pos=(1486,777)
+6.8076 	DATA 	Keypress: left
+7.0062 	EXP 	Set movie finished
+7.0062 	EXP 	Set movie_2 finished
+7.5926 	EXP 	Set  sound=C
+7.5939 	EXP 	Set  sound=bad.wav
+7.5950 	EXP 	Set  sound=button.wav
+7.5958 	EXP 	New trial (rep=0, index=1): {'verb': u'knockover', 'actor': u'bandit', 'reciever': u'hunter'}
+7.6281 	EXP 	MovieStim: autoDraw = None
+7.6281 	EXP 	MovieStim: autoDraw = None
+7.6281 	EXP 	MovieStim: autoLog = None
+7.6281 	EXP 	MovieStim: units = None
+7.6281 	EXP 	Set movie movie=videos/bandit_hunter_knockover.avi
+7.6281 	EXP 	MovieStim: pos = None
+7.6281 	EXP 	MovieStim: depth = None
+7.6281 	EXP 	MovieStim: colorSpace = None
+7.6281 	EXP 	MovieStim: opacity = None
+7.6281 	EXP 	MovieStim: size = None
+7.6281 	EXP 	MovieStim: ori = None
+7.6281 	EXP 	MovieStim: autoLog = None
+7.6281 	EXP 	MovieStim: units = None
+7.6281 	EXP 	Set movie_2 movie=videos/bandit_hunter_knockover.avi
+7.6281 	EXP 	MovieStim: pos = None
+7.6281 	EXP 	MovieStim: depth = None
+7.6281 	EXP 	MovieStim: colorSpace = None
+7.6281 	EXP 	MovieStim: opacity = None
+7.6281 	EXP 	MovieStim: size = None
+7.6281 	EXP 	MovieStim: ori = None
+7.6281 	EXP 	MovieStim: autoDraw = None
+7.6281 	EXP 	MovieStim: autoDraw = None
+12.4211 	DATA 	Keypress: left
+12.6285 	EXP 	Set movie finished
+12.6285 	EXP 	Set movie_2 finished
+12.6291 	EXP 	Set  sound=bad.wav
+12.6296 	EXP 	New trial (rep=0, index=2): {'verb': u'rock', 'actor': u'bandit', 'reciever': u'ref'}
+12.6593 	EXP 	MovieStim: autoDraw = None
+12.6593 	EXP 	MovieStim: autoDraw = None
+12.6593 	EXP 	MovieStim: autoLog = None
+12.6593 	EXP 	MovieStim: units = None
+12.6593 	EXP 	Set movie movie=videos/bandit_ref_rock.avi
+12.6593 	EXP 	MovieStim: pos = None
+12.6593 	EXP 	MovieStim: depth = None
+12.6593 	EXP 	MovieStim: colorSpace = None
+12.6593 	EXP 	MovieStim: opacity = None
+12.6593 	EXP 	MovieStim: size = None
+12.6593 	EXP 	MovieStim: ori = None
+12.6593 	EXP 	MovieStim: autoLog = None
+12.6593 	EXP 	MovieStim: units = None
+12.6593 	EXP 	Set movie_2 movie=videos/bandit_ref_rock.avi
+12.6593 	EXP 	MovieStim: pos = None
+12.6593 	EXP 	MovieStim: depth = None
+12.6593 	EXP 	MovieStim: colorSpace = None
+12.6593 	EXP 	MovieStim: opacity = None
+12.6593 	EXP 	MovieStim: size = None
+12.6593 	EXP 	MovieStim: ori = None
+12.6593 	EXP 	MovieStim: autoDraw = None
+12.6593 	EXP 	MovieStim: autoDraw = None
+17.4526 	DATA 	Keypress: left
+17.6540 	EXP 	Set movie finished
+17.6540 	EXP 	Set movie_2 finished
+17.6546 	EXP 	Set  sound=bad.wav
+17.6551 	EXP 	New trial (rep=1, index=0): {'verb': u'headbutt', 'actor': u'bandit', 'reciever': u'chef'}
+17.6908 	EXP 	MovieStim: autoDraw = None
+17.6908 	EXP 	MovieStim: autoDraw = None
+17.6908 	EXP 	MovieStim: autoLog = None
+17.6908 	EXP 	MovieStim: units = None
+17.6908 	EXP 	Set movie movie=videos/bandit_chef_headbutt.avi
+17.6908 	EXP 	MovieStim: pos = None
+17.6908 	EXP 	MovieStim: depth = None
+17.6908 	EXP 	MovieStim: colorSpace = None
+17.6908 	EXP 	MovieStim: opacity = None
+17.6908 	EXP 	MovieStim: size = None
+17.6908 	EXP 	MovieStim: ori = None
+17.6908 	EXP 	MovieStim: autoLog = None
+17.6908 	EXP 	MovieStim: units = None
+17.6908 	EXP 	Set movie_2 movie=videos/bandit_chef_headbutt.avi
+17.6908 	EXP 	MovieStim: pos = None
+17.6908 	EXP 	MovieStim: depth = None
+17.6908 	EXP 	MovieStim: colorSpace = None
+17.6908 	EXP 	MovieStim: opacity = None
+17.6908 	EXP 	MovieStim: size = None
+17.6908 	EXP 	MovieStim: ori = None
+17.6908 	EXP 	MovieStim: autoDraw = None
+17.6908 	EXP 	MovieStim: autoDraw = None
+22.4783 	DATA 	Keypress: left
+22.4784 	DATA 	Keypress: escape
