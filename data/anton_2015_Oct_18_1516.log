@@ -1,4 +1,0 @@
-5.1746 	WARNING 	User requested fullscreen with size [2560 1700], but screen is actually [2560, 1440]. Using actual size
-6.7352 	EXP 	Imported test.csv as conditions, 3 conditions, 10 params
-6.7414 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
-6.8068 	EXP 	New trial (rep=0, index=0): {'receivertwo': u'hunter', 'soundverb': u'forp', 'verbtwo': u'rock', 'actor': u'bandit', 'verb': u'headbutt', 'receiver': u'chef', 'soundreceiver': u'doakla', 'correct': 1, 'soundactor': u'barsu', 'actortwo': u'bandit'}

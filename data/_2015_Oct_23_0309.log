@@ -1,0 +1,34 @@
+3.1357 	EXP 	Imported test.csv as conditions, 3 conditions, 11 params
+3.1360 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+3.1964 	EXP 	New trial (rep=0, index=0): {'receivertwo': u'hunter', 'soundverb': u'forp', 'verbtwo': u'rock', 'welcometext': u'My name is alien the alien and I will be showing you some experiments today. Press anywhere to continue', 'actor': u'bandit', 'verb': u'headbutt', 'receiver': u'chef', 'soundreceiver': u'doakla', 'type': u'vide', 'soundactor': u'barsu', 'actortwo': u'bandit'}
+3.2319 	EXP 	TextStim: autoLog = None
+3.2319 	EXP 	TextStim: units = None
+3.2319 	EXP 	TextStim: useShaders = None
+3.2319 	EXP 	TextStim: depth = None
+3.2319 	EXP 	TextStim: ori = None
+3.2319 	EXP 	TextStim: pos = None
+3.2319 	EXP 	TextStim: colorSpace = None
+3.2319 	EXP 	TextStim: opacity = None
+3.2319 	EXP 	TextStim: contrast = None
+3.2319 	EXP 	ImageStim: autoLog = None
+3.2319 	EXP 	ImageStim: units = None
+3.2319 	EXP 	ImageStim: useShaders = None
+3.2319 	EXP 	ImageStim: size = None
+3.2319 	EXP 	ImageStim: pos = None
+3.2319 	EXP 	ImageStim: ori = None
+3.2319 	EXP 	ImageStim: depth = None
+3.2319 	EXP 	ImageStim: contrast = None
+3.2319 	EXP 	ImageStim: opacity = None
+3.2319 	EXP 	ImageStim: autoLog = None
+3.2319 	EXP 	ImageStim: units = None
+3.2319 	EXP 	ImageStim: useShaders = None
+3.2319 	EXP 	ImageStim: size = None
+3.2319 	EXP 	ImageStim: pos = None
+3.2319 	EXP 	ImageStim: ori = None
+3.2319 	EXP 	ImageStim: depth = None
+3.2319 	EXP 	ImageStim: contrast = None
+3.2319 	EXP 	ImageStim: opacity = None
+3.2319 	EXP 	Set text text=My name is alien the alien and I will be showing you some experiments today. Press anywhere to continue
+3.2319 	EXP 	TextStim: autoDraw = None
+3.2319 	EXP 	ImageStim: autoDraw = None
+3.7836 	DATA 	Mouse: Left button down, pos=(195,396)

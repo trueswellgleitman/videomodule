@@ -1,4 +1,0 @@
-receivertwo,verb,verbtwo,receiver,correct,actor,actortwo,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,mouse.x,mouse.y,mouse.leftButton,mouse.midButton,mouse.rightButton,mouse.time,date,frameRate,expName,session,participant,
-hunter,headbutt,rock,chef,1,bandit,bandit,0,0,0,0,-0.2328125,0.0129411764706,1,0,0,0.816722869873,2015_Oct_13_0633,60.0373309515,attempt,001,,
-chef,knockover,knockover,hunter,2,bandit,bandit,0,1,1,1,-0.23125,0.0152941176471,1,0,0,1.01408314705,2015_Oct_13_0633,60.0373309515,attempt,001,,
-ref,rock,headbutt,ref,2,bandit,bandit,0,2,2,2,0.38828125,0.0541176470588,1,0,0,0.965641021729,2015_Oct_13_0633,60.0373309515,attempt,001,,

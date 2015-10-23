@@ -14,10 +14,7 @@ import numpy as np  # whole numpy lib is available, prepend 'np.'
 from numpy import sin, cos, tan, log, log10, pi, average, sqrt, std, deg2rad, rad2deg, linspace, asarray
 from numpy.random import random, randint, normal, shuffle
 import os  # handy system and path functions
-
-routine_list = ['video', 'image']
-#myFuncs = [f0,f1,f2]
-#myFuncs[2](...) #calls f2
+import random as choose
 # Store info about the experiment session
 expName = 'attempt'  # from the Builder filename that created this script
 expInfo = {'participant':'', 'session':'001'}
@@ -44,7 +41,7 @@ thisExp = data.ExperimentHandler(name=expName, version='',
 
 
 # Setup the Window
-win = visual.Window(size=(2560, 1700), fullscr=True, screen=0, allowGUI=False, allowStencil=False,
+win = visual.Window(size=(800, 800), fullscr=True, screen=0, allowGUI=False, allowStencil=False,
     monitor='testMonitor', color=[-1,-1,-1], colorSpace='rgb')
 # store frame rate of monitor if we can measure it successfully
 expInfo['frameRate']=win.getActualFrameRate()
@@ -85,13 +82,13 @@ x, y = [None, None]
 # Create some handy timers
 globalClock = core.Clock()  # to track the time since experiment started
 routineTimer = core.CountdownTimer()  # to track time remaining of each (non-slip) routine 
-i = 0
 
-if any("video" in s for s in routine_list):
+def doVideo(resourceFile):
+    i = 0
     # set up handler to look after randomisation of conditions etc
     trials = data.TrialHandler(nReps=1, method=u'sequential', 
         extraInfo=expInfo, originPath=None,
-        trialList=data.importConditions(u'test.csv'),
+        trialList=data.importConditions(resourceFile),
         seed=None, name='trials')
     thisExp.addLoop(trials)  # add the loop to the experiment
     thisTrial = trials.trialList[0]  # so we can initialise stimuli with some values
@@ -215,14 +212,15 @@ if any("video" in s for s in routine_list):
         mouse.midButton = []
         mouse.rightButton = []
         mouse.time = []
+        x = choose.choice([675, -675])
         movie = visual.MovieStim(win=win, name='movie',
             filename="videos/"  + actor + "_" + receiver + "_" + verb + ".avi",
-            ori=0, pos=[675, 0], opacity=1,
+            ori=0, pos=[x, 0], opacity=1,
             depth=-2.0,
             )
         movie_2 = visual.MovieStim(win=win, name='movie',
             filename="videos/"  + actortwo + "_" + receivertwo + "_" + verbtwo + ".avi",
-            ori=0, pos=[-675, 0], opacity=1,
+            ori=0, pos=[-x, 0], opacity=1,
             depth=-2.0,
             )    
         # keep track of which components have finished
@@ -257,10 +255,10 @@ if any("video" in s for s in routine_list):
                 if sum(buttons) > 0:  # ie if any button is pressed
                     x, y = mouse.getPos()
                     mouse.x.append(x)
-                    if ((mouse.x > 0) and (correct == 1)):
+                    if ((mouse.x > 0)):
                         correctPress = "yes"
                         sound.SoundPyo(value='button.wav')
-                    if (mouse.x < 0) and (correct == 2):
+                    if (mouse.x < 0) :
                         correctPress = "yes"
                         sound.SoundPyo(value='button.wav')
                     else:
@@ -341,23 +339,24 @@ if any("video" in s for s in routine_list):
                 thisComponent.setAutoDraw(False)
         # save mouse data
         trials.addData('correct', correctPress)
-        trials.addData('mouse.x', mouse.x[0])
-        trials.addData('mouse.x', mouse.x[0])
-        trials.addData('mouse.y', mouse.y[0])
-        trials.addData('mouse.leftButton', mouse.leftButton[0])
-        trials.addData('mouse.midButton', mouse.midButton[0])
-        trials.addData('mouse.rightButton', mouse.rightButton[0])
+        trials.addData('Type', type)
+        #trials.addData('mouse.x', mouse.x[0])
+        #trials.addData('mouse.x', mouse.x[0])
+        #trials.addData('mouse.y', mouse.y[0])
+        #trials.addData('mouse.leftButton', mouse.leftButton[0])
+        #trials.addData('mouse.midButton', mouse.midButton[0])
+        #trials.addData('mouse.rightButton', mouse.rightButton[0])
         trials.addData('mouse.time', mouse.time[0])
         thisExp.nextEntry()
         
     # completed 1 repeats of 'trials'
     
-if any("image" in s for s in routine_list):
+def doImage(resourceFile):
     i = 0
     # set up handler to look after randomisation of conditions etc
     trials_2 = data.TrialHandler(nReps=1, method=u'sequential', 
         extraInfo=expInfo, originPath=None,
-        trialList=data.importConditions(u'images.csv'),
+        trialList=data.importConditions(resourceFile),
         seed=None, name='trials_2')
     thisExp.addLoop(trials_2)  # add the loop to the experiment
     thisTrial_2 = trials_2.trialList[0]  # so we can initialise stimuli with some values
@@ -535,16 +534,24 @@ if any("image" in s for s in routine_list):
             if hasattr(thisComponent, "setAutoDraw"):
                 thisComponent.setAutoDraw(False)
         # get info about the mouse_2
-        x, y = mouse_2.getPos()
-        buttons = mouse_2.getPressed()
-        trials_2.addData('mouse_2.x', x)
-        trials_2.addData('mouse_2.y', y)
-        trials_2.addData('mouse_2.leftButton', buttons[0])
-        trials_2.addData('mouse_2.midButton', buttons[1])
-        trials_2.addData('mouse_2.rightButton', buttons[2])
+        trials_2.addData('Type', type)        
+        #x, y = mouse_2.getPos()
+        #buttons = mouse_2.getPressed()
+        #trials_2.addData('mouse_2.x', x)
+        #trials_2.addData('mouse_2.y', y)
+        #trials_2.addData('mouse_2.leftButton', buttons[0])
+        #trials_2.addData('mouse_2.midButton', buttons[1])
+        #trials_2.addData('mouse_2.rightButton', buttons[2])
         thisExp.nextEntry()
         
     # completed 1 repeats of 'trials_2'
+myFuncs = [doVideo,doImage]
+myFuncs[0]('test.csv')
+print "yes"
+myFuncs[1]('images.csv')
+print "reached"
+myFuncs[1]('images2.csv')
 
 win.close()
 core.quit()
+

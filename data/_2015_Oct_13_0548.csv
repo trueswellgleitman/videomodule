@@ -1,8 +1,0 @@
-color,verb,names,object,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials_2.thisRepN,trials_2.thisTrialN,trials_2.thisN,trials_2.thisIndex,mouse.x,mouse.y,mouse.leftButton,mouse.midButton,mouse.rightButton,mouse.time,mouse_2.x,mouse_2.y,mouse_2.leftButton,mouse_2.midButton,mouse_2.rightButton,mouse_2.time,date,frameRate,expName,session,participant,
-Red,On,mountie,Stool,0,0,0,0,,,,,-0.003125,0.0411764705882,1,0,0,1.99687719345,,,,,,,2015_Oct_13_0548,59.8566342003,attempt,001,,
-Red,With,hunter,Stool,0,1,1,1,,,,,-0.003125,0.0411764705882,1,0,0,0.798835992813,,,,,,,2015_Oct_13_0548,59.8566342003,attempt,001,,
-Red,On,hunter,Stool,0,2,2,2,,,,,-0.003125,0.0435294117647,1,0,0,0.699460029602,,,,,,,2015_Oct_13_0548,59.8566342003,attempt,001,,
-Blue,Nextto,hunter,Stool,0,3,3,3,,,,,-0.003125,0.0435294117647,1,0,0,0.56382894516,,,,,,,2015_Oct_13_0548,59.8566342003,attempt,001,,
-Red,On,mountie,Skateboard,0,4,4,4,,,,,-0.003125,0.0435294117647,1,0,0,0.549081802368,,,,,,,2015_Oct_13_0548,59.8566342003,attempt,001,,
-Red,On,mountie,Stool,,,,,0,0,0,0,,,,,,,-0.003125,0.0435294117647,1,0,0,0.814989089966,2015_Oct_13_0548,59.8566342003,attempt,001,,
-Red,With,hunter,Stool,,,,,0,1,1,1,,,,,,,-0.00390625,0.0435294117647,1,0,0,0.580865859985,2015_Oct_13_0548,59.8566342003,attempt,001,,

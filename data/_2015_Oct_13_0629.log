@@ -1,7 +1,0 @@
-2.2473 	EXP 	Imported test.csv as conditions, 3 conditions, 7 params
-2.2475 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
-2.2743 	EXP 	New trial (rep=0, index=0): {'receivertwo': u'hunter', 'verb': u'headbutt', 'verbtwo': u'rock', 'receiver': u'chef', 'correct': 1, 'actor': u'bandit', 'actortwo': u'bandit'}
-2.0921 	EXP 	Imported test.csv as conditions, 3 conditions, 7 params
-2.0924 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
-2.1255 	EXP 	New trial (rep=0, index=0): {'receivertwo': u'hunter', 'verb': u'headbutt', 'verbtwo': u'rock', 'receiver': u'chef', 'correct': 1, 'actor': u'bandit', 'actortwo': u'bandit'}
-2.1758 	WARNING 	Data file, data/_2015_Oct_13_0629.csv, will be overwritten
