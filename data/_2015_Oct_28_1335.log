@@ -1,0 +1,83 @@
+2.6073 	EXP 	Imported images.csv as conditions, 5 conditions, 9 params
+2.6076 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+2.6694 	EXP 	New trial (rep=0, index=0): {'soundverb': u'forp', 'color': u'Red', 'welcometext': u'Hello this is trial two', 'object': u'Stool', 'verb': u'On', 'names': u'mountie', 'soundreceiver': u'doakla', 'type': u'image', 'soundactor': u'barsu'}
+2.6872 	EXP 	TextStim: autoLog = None
+2.6872 	EXP 	TextStim: units = None
+2.6872 	EXP 	TextStim: useShaders = None
+2.6872 	EXP 	TextStim: depth = None
+2.6872 	EXP 	TextStim: ori = None
+2.6872 	EXP 	TextStim: pos = None
+2.6872 	EXP 	TextStim: colorSpace = None
+2.6872 	EXP 	TextStim: opacity = None
+2.6872 	EXP 	TextStim: contrast = None
+2.6872 	EXP 	ImageStim: autoLog = None
+2.6872 	EXP 	ImageStim: units = None
+2.6872 	EXP 	ImageStim: useShaders = None
+2.6872 	EXP 	ImageStim: size = None
+2.6872 	EXP 	ImageStim: pos = None
+2.6872 	EXP 	ImageStim: ori = None
+2.6872 	EXP 	ImageStim: depth = None
+2.6872 	EXP 	ImageStim: contrast = None
+2.6872 	EXP 	ImageStim: opacity = None
+2.6872 	EXP 	ImageStim: autoLog = None
+2.6872 	EXP 	ImageStim: units = None
+2.6872 	EXP 	ImageStim: useShaders = None
+2.6872 	EXP 	ImageStim: size = None
+2.6872 	EXP 	ImageStim: pos = None
+2.6872 	EXP 	ImageStim: ori = None
+2.6872 	EXP 	ImageStim: depth = None
+2.6872 	EXP 	ImageStim: contrast = None
+2.6872 	EXP 	ImageStim: opacity = None
+2.6872 	EXP 	Set text text=Hello this is trial two
+2.6872 	EXP 	TextStim: autoDraw = None
+2.6872 	EXP 	ImageStim: autoDraw = None
+3.2551 	DATA 	Mouse: Left button down, pos=(548,519)
+3.2698 	EXP 	Set  sound=soundfiles/barsu_doakla_forp.wav
+3.2698 	EXP 	Sound  started
+3.2878 	EXP 	TextStim: autoDraw = None
+3.2878 	EXP 	ImageStim: autoDraw = None
+3.2878 	EXP 	Set image_2 image=images/mountieOnRedStool.png
+3.2878 	EXP 	ImageStim: autoDraw = None
+3.3879 	DATA 	Mouse: Left button up, pos=(548,519)
+3.6885 	DATA 	Mouse: Left button down, pos=(548,519)
+3.6899 	EXP 	New trial (rep=0, index=1): {'soundverb': u'moship', 'color': u'Red', 'welcometext': u'Hello this is trial two', 'object': u'Stool', 'verb': u'With', 'names': u'hunter', 'soundreceiver': u'doakla', 'type': u'image', 'soundactor': u'barsu'}
+3.6992 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+3.6992 	EXP 	Sound  started
+3.7050 	EXP 	ImageStim: autoDraw = None
+3.7050 	EXP 	Set image_2 image=images/hunterWithRedStool.png
+3.7050 	EXP 	ImageStim: autoDraw = None
+3.8053 	DATA 	Mouse: Left button up, pos=(548,519)
+3.8883 	DATA 	Mouse: Left button down, pos=(548,519)
+3.8895 	EXP 	New trial (rep=0, index=2): {'soundverb': u'doakla', 'color': u'Red', 'welcometext': u'Hello this is trial two', 'object': u'Stool', 'verb': u'On', 'names': u'hunter', 'soundreceiver': u'barsu', 'type': u'image', 'soundactor': u'kyse'}
+3.8994 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+3.8994 	EXP 	Sound  started
+3.9050 	EXP 	ImageStim: autoDraw = None
+3.9050 	EXP 	Set image_2 image=images/hunterOnRedStool.png
+3.9050 	EXP 	ImageStim: autoDraw = None
+4.0047 	DATA 	Mouse: Left button up, pos=(548,519)
+4.1892 	DATA 	Mouse: Left button down, pos=(548,519)
+4.1904 	EXP 	New trial (rep=0, index=3): {'soundverb': u'moship', 'color': u'Blue', 'welcometext': u'Hello this is trial two', 'object': u'Stool', 'verb': u'Nextto', 'names': u'hunter', 'soundreceiver': u'doakla', 'type': u'image', 'soundactor': u'barsu'}
+4.2012 	EXP 	Set  sound=soundfiles/barsu_doakla_moship.wav
+4.2012 	EXP 	Sound  started
+4.2049 	EXP 	ImageStim: autoDraw = None
+4.2049 	EXP 	Set image_2 image=images/hunterNexttoBlueStool.png
+4.2049 	EXP 	ImageStim: autoDraw = None
+4.3227 	DATA 	Mouse: Left button up, pos=(548,519)
+4.6223 	DATA 	Mouse: Left button down, pos=(548,519)
+4.6235 	EXP 	New trial (rep=0, index=4): {'soundverb': u'doakla', 'color': u'Red', 'welcometext': u'Hello this is trial two', 'object': u'Skateboard', 'verb': u'On', 'names': u'mountie', 'soundreceiver': u'barsu', 'type': u'image', 'soundactor': u'kyse'}
+4.6328 	EXP 	Set  sound=soundfiles/kyse_barsu_doakla.wav
+4.6328 	EXP 	Sound  started
+4.6389 	EXP 	ImageStim: autoDraw = None
+4.6389 	EXP 	Set image_2 image=images/mountieOnRedSkateboard.png
+4.6389 	EXP 	ImageStim: autoDraw = None
+4.7555 	DATA 	Mouse: Left button up, pos=(548,519)
+5.5400 	DATA 	Mouse: Left button down, pos=(548,519)
+5.5418 	EXP 	Imported test.csv as conditions, 3 conditions, 11 params
+5.5421 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+5.5432 	EXP 	New trial (rep=0, index=0): {'receivertwo': u'hunter', 'soundverb': u'forp', 'verbtwo': u'rock', 'welcometext': u'My name is alien the alien and I will be showing you some experiments today. Press anywhere to continue', 'actor': u'bandit', 'verb': u'headbutt', 'receiver': u'chef', 'soundreceiver': u'doakla', 'type': u'vide', 'soundactor': u'barsu', 'actortwo': u'bandit'}
+5.5732 	EXP 	ImageStim: autoDraw = None
+5.5732 	EXP 	Set text text=My name is alien the alien and I will be showing you some experiments today. Press anywhere to continue
+5.5732 	EXP 	TextStim: autoDraw = None
+5.5732 	EXP 	ImageStim: autoDraw = None
+5.8678 	DATA 	Mouse: Left button up, pos=(548,519)
+6.1064 	DATA 	Mouse: Left button down, pos=(548,519)

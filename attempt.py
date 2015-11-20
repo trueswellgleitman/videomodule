@@ -41,7 +41,7 @@ thisExp = data.ExperimentHandler(name=expName, version='',
 
 
 # Setup the Window
-win = visual.Window(size=(800, 800), fullscr=True, screen=0, allowGUI=False, allowStencil=False,
+win = visual.Window(size=(800, 800), fullscr=False, screen=0, allowGUI=False, allowStencil=False,
     monitor='testMonitor', color=[-1,-1,-1], colorSpace='rgb')
 # store frame rate of monitor if we can measure it successfully
 expInfo['frameRate']=win.getActualFrameRate()
@@ -85,6 +85,7 @@ routineTimer = core.CountdownTimer()  # to track time remaining of each (non-sli
 
 def doVideo(resourceFile):
     i = 0
+    setInfo = 0
     # set up handler to look after randomisation of conditions etc
     trials = data.TrialHandler(nReps=1, method=u'sequential', 
         extraInfo=expInfo, originPath=None,
@@ -237,6 +238,13 @@ def doVideo(resourceFile):
         #-------Start Routine "trial"-------
         continueRoutine = True
         while continueRoutine:
+            if setInfo == 0:
+                   valueSound="soundfiles/" + soundactor + "_" + soundreceiver + "_" + soundverb + ".wav"
+                   print valueSound
+                   movieSnd=sound.Sound(valueSound,secs=5.0)
+                   movieSnd.setVolume(1)
+                   setInfo = 1
+                   
             # get current time
             t = trialClock.getTime()
             frameN = frameN + 1  # number of completed frames (so 0 is the first frame)
@@ -273,16 +281,37 @@ def doVideo(resourceFile):
                     continueRoutine = False
             
             # *movie* updates
-            valueSound="soundfiles/" + soundactor + "_" + soundreceiver + "_" + soundverb + ".wav"
-            theSound = sound.SoundPygame(valueSound)
-            theSound.play()
+
+            
+            
             if t >= 0.0 and movie.status == NOT_STARTED:
-                # keep track of start time/frame for later
+                    #play the first frame
                 movie.tStart = t  # underestimates by a little under one frame
                 movie.frameNStart = frameN  # exact frame index
+                movie.setAutoDraw(True)    
+                for frameN in range(0):
+                    movie.draw()
+                    win.flip()
+                    #pause the movie after the first frame    
+                    movie.pause()
+                for frameN in range(140):
+                    movie.draw()
+                        #start/stop movieSnd
+                    if t>=0.0 and movieSnd.status==NOT_STARTED:
+                        #keep track of start time/frame for later
+                        movieSnd.tStart=t#underestimates by a little under one frame
+                        movieSnd.frameNStart=frameN#exact frame index
+                        movieSnd.play()#start the sound (it finishes automatically)
+                    elif movieSnd.status==STARTED and t>=(0.0+5.0):
+                        movieSnd.stop()#stop the sound (if longer than duration)
+                    win.flip()
+            #start movie again after sound plays
                 movie.setAutoDraw(True)
+                win.flip()
+
             if movie.status == FINISHED:
-                movie.pause()      
+                movie.pause()
+                setInfo = 0
             #elif movie.status == STARTED and t >= (0.0 + 2.0):
             #    movie.setAutoDraw(False)    
             # *ISI* period
@@ -340,12 +369,12 @@ def doVideo(resourceFile):
         # save mouse data
         trials.addData('correct', correctPress)
         trials.addData('Type', type)
-        #trials.addData('mouse.x', mouse.x[0])
-        #trials.addData('mouse.x', mouse.x[0])
-        #trials.addData('mouse.y', mouse.y[0])
-        #trials.addData('mouse.leftButton', mouse.leftButton[0])
-        #trials.addData('mouse.midButton', mouse.midButton[0])
-        #trials.addData('mouse.rightButton', mouse.rightButton[0])
+        trials.addData('mouse.x', mouse.x[0])
+        trials.addData('mouse.x', mouse.x[0])
+        trials.addData('mouse.y', mouse.y[0])
+        trials.addData('mouse.leftButton', mouse.leftButton[0])
+        trials.addData('mouse.midButton', mouse.midButton[0])
+        trials.addData('mouse.rightButton', mouse.rightButton[0])
         trials.addData('mouse.time', mouse.time[0])
         thisExp.nextEntry()
         
@@ -473,6 +502,10 @@ def doImage(resourceFile):
         frameN = -1
         # update component parameters for each repeat
         image_2.setImage("images/" + names + verb + color + object + ".png")
+        valueSound="soundfiles/" + soundactor + "_" + soundreceiver + "_" + soundverb + ".wav"
+        print valueSound
+        theSound = sound.SoundPygame(valueSound)
+        theSound.play()
         # setup some python lists for storing info about the mouse_2
         # keep track of which components have finished
         trial2Components = []
@@ -534,22 +567,21 @@ def doImage(resourceFile):
             if hasattr(thisComponent, "setAutoDraw"):
                 thisComponent.setAutoDraw(False)
         # get info about the mouse_2
-        trials_2.addData('Type', type)        
-        #x, y = mouse_2.getPos()
-        #buttons = mouse_2.getPressed()
-        #trials_2.addData('mouse_2.x', x)
-        #trials_2.addData('mouse_2.y', y)
-        #trials_2.addData('mouse_2.leftButton', buttons[0])
-        #trials_2.addData('mouse_2.midButton', buttons[1])
-        #trials_2.addData('mouse_2.rightButton', buttons[2])
+        #trials_2.addData('Type', type)        
+        x, y = mouse_2.getPos()
+        buttons = mouse_2.getPressed()
+        trials_2.addData('mouse_2.x', x)
+        trials_2.addData('mouse_2.y', y)
+        trials_2.addData('mouse_2.leftButton', buttons[0])
+        trials_2.addData('mouse_2.midButton', buttons[1])
+        trials_2.addData('mouse_2.rightButton', buttons[2])
         thisExp.nextEntry()
         
     # completed 1 repeats of 'trials_2'
+    
 myFuncs = [doVideo,doImage]
-myFuncs[0]('test.csv')
-print "yes"
 myFuncs[1]('images.csv')
-print "reached"
+myFuncs[0]('test.csv')
 myFuncs[1]('images2.csv')
 
 win.close()
